@@ -1,0 +1,1781 @@
+Version Name,Segment,Year,Month,Period,Peril,Large Claim,Incurred Cost,Claims Nos,Earned Exposure
+Actual,Aggregators,2016,1,201601,Non Weather,Attritional,3022882,1209,303322
+Actual,Aggregators,2016,2,201602,Non Weather,Attritional,3019458,1208,301766
+Actual,Aggregators,2016,3,201603,Non Weather,Attritional,3034723,1214,302813
+Actual,Aggregators,2016,4,201604,Non Weather,Attritional,3085484,1234,306589
+Actual,Aggregators,2016,5,201605,Non Weather,Attritional,3112976,1245,311626
+Actual,Aggregators,2016,6,201606,Non Weather,Attritional,3146070,1258,315759
+Actual,Aggregators,2016,7,201607,Non Weather,Attritional,3210129,1284,322449
+Actual,Aggregators,2016,8,201608,Non Weather,Attritional,3247908,1299,322515
+Actual,Aggregators,2016,9,201609,Non Weather,Attritional,3290772,1316,328118
+Actual,Aggregators,2016,10,201610,Non Weather,Attritional,3301654,1321,328533
+Actual,Aggregators,2016,11,201611,Non Weather,Attritional,3352300,1341,335426
+Actual,Aggregators,2016,12,201612,Non Weather,Attritional,3391235,1356,340486
+Actual,Aggregators,2017,1,201701,Non Weather,Attritional,3430778,1372,342810
+Actual,Aggregators,2017,2,201702,Non Weather,Attritional,3469737,1388,346895
+Actual,Aggregators,2017,3,201703,Non Weather,Attritional,3501717,1401,351656
+Actual,Aggregators,2017,4,201704,Non Weather,Attritional,3563702,1425,357234
+Actual,Aggregators,2017,5,201705,Non Weather,Attritional,3609075,1444,359547
+Actual,Aggregators,2017,6,201706,Non Weather,Attritional,3648677,1459,366824
+Actual,Aggregators,2017,7,201707,Non Weather,Attritional,3674227,1470,368328
+Actual,Aggregators,2017,8,201708,Non Weather,Attritional,3736101,1494,376155
+Actual,Aggregators,2017,9,201709,Non Weather,Attritional,3787996,1515,375559
+Actual,Aggregators,2017,10,201710,Non Weather,Attritional,3779576,1512,379742
+Actual,Aggregators,2017,11,201711,Non Weather,Attritional,3826408,1531,382642
+Actual,Aggregators,2017,12,201712,Non Weather,Attritional,3842868,1537,383634
+Actual,Aggregators,2018,1,201801,Non Weather,Attritional,3860089,1544,386815
+Actual,Aggregators,2018,2,201802,Non Weather,Attritional,3924952,1570,393299
+Actual,Aggregators,2018,3,201803,Non Weather,Attritional,3939500,1576,396433
+Actual,Aggregators,2018,4,201804,Non Weather,Attritional,3951715,1581,393227
+Actual,Aggregators,2018,5,201805,Non Weather,Attritional,4020418,1608,398950
+Actual,Aggregators,2018,6,201806,Non Weather,Attritional,4056942,1623,405208
+Actual,Aggregators,2018,7,201807,Non Weather,Attritional,4078890,1632,407786
+Actual,Aggregators,2018,8,201808,Non Weather,Attritional,4114375,1646,412841
+Actual,Aggregators,2018,9,201809,Non Weather,Attritional,3289973,1316,328856
+Actual,Aggregators,2018,10,201810,Non Weather,Attritional,3297957,1319,330202
+Actual,Aggregators,2018,11,201811,Non Weather,Attritional,3356671,1343,335700
+Actual,Aggregators,2018,12,201812,Non Weather,Attritional,3378979,1352,335502
+Actual,Aggregators,2016,7,201607,Non Weather,Large,3205136,1282,319770
+Actual,Aggregators,2017,12,201712,Non Weather,Large,3819110,1528,382725
+Actual,Aggregators,2018,3,201803,Non Weather,Large,3926803,1571,393613
+Actual,Aggregators,2018,8,201808,Non Weather,Large,4124350,1650,411978
+Actual,Aggregators,2018,9,201809,Non Weather,Large,3275863,1310,327384
+Plan,Aggregators,2018,7,201807,Non Weather,Attritional,4118116,1647,413538
+Plan,Aggregators,2018,8,201808,Non Weather,Attritional,4137748,1655,416257
+Plan,Aggregators,2018,9,201809,Non Weather,Attritional,5393687,2157,539994
+Plan,Aggregators,2018,10,201810,Non Weather,Attritional,5485704,2194,548720
+Plan,Aggregators,2018,11,201811,Non Weather,Attritional,5511187,2204,555005
+Plan,Aggregators,2018,12,201812,Non Weather,Attritional,5590565,2236,560487
+Plan,Aggregators,2019,1,201901,Non Weather,Attritional,5633965,2254,565216
+Plan,Aggregators,2019,2,201902,Non Weather,Attritional,5671521,2269,570074
+Plan,Aggregators,2019,3,201903,Non Weather,Attritional,5713134,2285,571637
+Plan,Aggregators,2019,4,201904,Non Weather,Attritional,5714777,2286,572439
+Plan,Aggregators,2019,5,201905,Non Weather,Attritional,5779361,2312,577291
+Plan,Aggregators,2019,6,201906,Non Weather,Attritional,5767945,2307,577663
+Plan,Aggregators,2019,7,201907,Non Weather,Attritional,5774463,2310,580792
+Plan,Aggregators,2019,8,201908,Non Weather,Attritional,5742988,2297,576235
+Plan,Aggregators,2019,9,201909,Non Weather,Attritional,5826960,2331,583492
+Plan,Aggregators,2019,10,201910,Non Weather,Attritional,5956357,2383,594994
+Plan,Aggregators,2019,11,201911,Non Weather,Attritional,5985227,2394,594566
+Plan,Aggregators,2019,12,201912,Non Weather,Attritional,5987061,2395,599658
+Plan,Aggregators,2018,7,201807,Non Weather,Large,4123271,1649,412094
+Plan,Aggregators,2018,8,201808,Non Weather,Large,4159347,1664,413331
+Plan,Aggregators,2018,9,201809,Non Weather,Large,5393532,2157,539049
+Plan,Aggregators,2018,10,201810,Non Weather,Large,5487995,2195,548696
+Plan,Aggregators,2018,11,201811,Non Weather,Large,5533021,2213,553172
+Plan,Aggregators,2018,12,201812,Non Weather,Large,5638028,2255,564289
+Plan,Aggregators,2019,1,201901,Non Weather,Large,5665942,2266,562443
+Plan,Aggregators,2019,2,201902,Non Weather,Large,5648608,2259,567281
+Plan,Aggregators,2019,3,201903,Non Weather,Large,5721677,2289,572256
+Plan,Aggregators,2019,4,201904,Non Weather,Large,5742921,2297,573518
+Plan,Aggregators,2019,5,201905,Non Weather,Large,5779602,2312,577265
+Plan,Aggregators,2019,6,201906,Non Weather,Large,5805773,2322,576501
+Plan,Aggregators,2019,7,201907,Non Weather,Large,5765118,2306,577953
+Plan,Aggregators,2019,8,201908,Non Weather,Large,5798522,2319,578502
+Plan,Aggregators,2019,9,201909,Non Weather,Large,5822156,2329,587114
+Plan,Aggregators,2019,10,201910,Non Weather,Large,5907369,2363,595201
+Plan,Aggregators,2019,11,201911,Non Weather,Large,5966241,2386,597861
+Plan,Aggregators,2019,12,201912,Non Weather,Large,5970782,2388,601938
+Plan V2,Aggregators,2018,9,201809,Non Weather,Attritional,4880337,1952,488280
+Plan V2,Aggregators,2018,10,201810,Non Weather,Attritional,4916892,1967,491011
+Plan V2,Aggregators,2018,11,201811,Non Weather,Attritional,4983536,1993,495905
+Plan V2,Aggregators,2018,12,201812,Non Weather,Attritional,4971168,1988,493878
+Plan V2,Aggregators,2019,1,201901,Non Weather,Attritional,4968576,1987,493591
+Plan V2,Aggregators,2019,2,201902,Non Weather,Attritional,4949857,1980,498364
+Plan V2,Aggregators,2019,3,201903,Non Weather,Attritional,4993978,1998,501360
+Plan V2,Aggregators,2019,4,201904,Non Weather,Attritional,4995665,1998,496994
+Plan V2,Aggregators,2019,5,201905,Non Weather,Attritional,5004309,2002,499774
+Plan V2,Aggregators,2019,6,201906,Non Weather,Attritional,5050331,2020,501408
+Plan V2,Aggregators,2019,7,201907,Non Weather,Attritional,5059776,2024,503532
+Plan V2,Aggregators,2019,8,201908,Non Weather,Attritional,5037805,2015,505939
+Plan V2,Aggregators,2019,9,201909,Non Weather,Attritional,5033270,2013,502835
+Plan V2,Aggregators,2019,10,201910,Non Weather,Attritional,5032837,2013,501264
+Plan V2,Aggregators,2019,11,201911,Non Weather,Attritional,5022968,2009,500984
+Plan V2,Aggregators,2019,12,201912,Non Weather,Attritional,5087163,2035,508933
+Plan V2,Aggregators,2018,9,201809,Non Weather,Large,4877911,1951,489559
+Plan V2,Aggregators,2018,10,201810,Non Weather,Large,4916062,1966,489988
+Plan V2,Aggregators,2018,11,201811,Non Weather,Large,4987658,1995,494705
+Plan V2,Aggregators,2018,12,201812,Non Weather,Large,4950563,1980,494507
+Plan V2,Aggregators,2019,1,201901,Non Weather,Large,4936241,1974,493285
+Plan V2,Aggregators,2019,2,201902,Non Weather,Large,4992955,1997,499035
+Plan V2,Aggregators,2019,3,201903,Non Weather,Large,4979730,1992,501009
+Plan V2,Aggregators,2019,4,201904,Non Weather,Large,4971894,1989,498299
+Plan V2,Aggregators,2019,5,201905,Non Weather,Large,5023914,2010,500658
+Plan V2,Aggregators,2019,6,201906,Non Weather,Large,5047081,2019,501916
+Plan V2,Aggregators,2019,7,201907,Non Weather,Large,5038924,2016,503483
+Plan V2,Aggregators,2019,8,201908,Non Weather,Large,5029446,2012,505996
+Plan V2,Aggregators,2019,9,201909,Non Weather,Large,5000147,2000,501788
+Plan V2,Aggregators,2019,10,201910,Non Weather,Large,5045422,2018,502735
+Plan V2,Aggregators,2019,11,201911,Non Weather,Large,5018887,2008,502555
+Plan V2,Aggregators,2019,12,201912,Non Weather,Large,5070250,2028,506961
+Actual,Barclays,2016,1,201601,Non Weather,Attritional,7431742,2973,744241
+Actual,Barclays,2016,2,201602,Non Weather,Attritional,7555200,3022,757502
+Actual,Barclays,2016,3,201603,Non Weather,Attritional,7613254,3045,767493
+Actual,Barclays,2016,4,201604,Non Weather,Attritional,7768792,3108,776824
+Actual,Barclays,2016,5,201605,Non Weather,Attritional,7916885,3167,793980
+Actual,Barclays,2016,6,201606,Non Weather,Attritional,8112636,3245,809778
+Actual,Barclays,2016,7,201607,Non Weather,Attritional,8293801,3318,832287
+Actual,Barclays,2016,8,201608,Non Weather,Attritional,8443575,3377,847997
+Actual,Barclays,2016,9,201609,Non Weather,Attritional,8625199,3450,863291
+Actual,Barclays,2016,10,201610,Non Weather,Attritional,8722823,3489,872727
+Actual,Barclays,2016,11,201611,Non Weather,Attritional,8960156,3584,896651
+Actual,Barclays,2016,12,201612,Non Weather,Attritional,9110951,3644,906948
+Actual,Barclays,2017,1,201701,Non Weather,Attritional,9267111,3707,928275
+Actual,Barclays,2017,2,201702,Non Weather,Attritional,9496824,3799,949945
+Actual,Barclays,2017,3,201703,Non Weather,Attritional,9707378,3883,975441
+Actual,Barclays,2017,4,201704,Non Weather,Attritional,9795074,3918,978239
+Actual,Barclays,2017,5,201705,Non Weather,Attritional,9967605,3987,996635
+Actual,Barclays,2017,6,201706,Non Weather,Attritional,10157842,4063,1017839
+Actual,Barclays,2017,7,201707,Non Weather,Attritional,10389945,4156,1033427
+Actual,Barclays,2017,8,201708,Non Weather,Attritional,10533799,4214,1048470
+Actual,Barclays,2017,9,201709,Non Weather,Attritional,10789683,4316,1073013
+Actual,Barclays,2017,10,201710,Non Weather,Attritional,10933127,4373,1101305
+Actual,Barclays,2017,11,201711,Non Weather,Attritional,11186804,4475,1119243
+Actual,Barclays,2017,12,201712,Non Weather,Attritional,11395241,4558,1136676
+Actual,Barclays,2018,1,201801,Non Weather,Attritional,11614054,4646,1155825
+Actual,Barclays,2018,2,201802,Non Weather,Attritional,11881347,4753,1183371
+Actual,Barclays,2018,3,201803,Non Weather,Attritional,12129062,4852,1213310
+Actual,Barclays,2018,4,201804,Non Weather,Attritional,12440936,4976,1239544
+Actual,Barclays,2018,5,201805,Non Weather,Attritional,12551767,5021,1255936
+Actual,Barclays,2018,6,201806,Non Weather,Attritional,12856114,5142,1285444
+Actual,Barclays,2018,7,201807,Non Weather,Attritional,13109926,5244,1304327
+Actual,Barclays,2018,8,201808,Non Weather,Attritional,13299424,5320,1326163
+Actual,Barclays,2018,9,201809,Non Weather,Attritional,11783960,4714,1188041
+Actual,Barclays,2018,10,201810,Non Weather,Attritional,12081973,4833,1205033
+Actual,Barclays,2018,11,201811,Non Weather,Attritional,12299925,4920,1219714
+Actual,Barclays,2018,12,201812,Non Weather,Attritional,12604995,5042,1265957
+Actual,Barclays,2016,1,201601,Non Weather,Large,7383761,2954,739816
+Actual,Barclays,2016,2,201602,Non Weather,Large,7541982,3017,753467
+Actual,Barclays,2016,3,201603,Non Weather,Large,7672860,3069,762847
+Actual,Barclays,2016,4,201604,Non Weather,Large,7825156,3130,776475
+Actual,Barclays,2016,5,201605,Non Weather,Large,7939479,3176,797371
+Actual,Barclays,2016,7,201607,Non Weather,Large,8314164,3326,829177
+Actual,Barclays,2016,8,201608,Non Weather,Large,8463394,3385,845975
+Actual,Barclays,2016,9,201609,Non Weather,Large,8608057,3443,859620
+Actual,Barclays,2016,10,201610,Non Weather,Large,8755069,3502,870983
+Actual,Barclays,2016,11,201611,Non Weather,Large,8920147,3568,892912
+Actual,Barclays,2017,2,201702,Non Weather,Large,9484856,3794,941577
+Actual,Barclays,2017,4,201704,Non Weather,Large,9859449,3944,978199
+Actual,Barclays,2017,7,201707,Non Weather,Large,10312058,4125,1036991
+Actual,Barclays,2017,9,201709,Non Weather,Large,10778791,4312,1082175
+Actual,Barclays,2017,10,201710,Non Weather,Large,10908324,4363,1100277
+Actual,Barclays,2017,11,201711,Non Weather,Large,11204377,4482,1117284
+Actual,Barclays,2018,1,201801,Non Weather,Large,11588337,4635,1154660
+Actual,Barclays,2018,3,201803,Non Weather,Large,12097294,4839,1209888
+Actual,Barclays,2018,4,201804,Non Weather,Large,12395497,4958,1237320
+Actual,Barclays,2018,5,201805,Non Weather,Large,12602921,5041,1264457
+Actual,Barclays,2018,6,201806,Non Weather,Large,12818822,5128,1282203
+Actual,Barclays,2018,7,201807,Non Weather,Large,13095695,5238,1309144
+Actual,Barclays,2018,8,201808,Non Weather,Large,13354581,5342,1334794
+Actual,Barclays,2018,9,201809,Non Weather,Large,11881796,4753,1182016
+Plan,Barclays,2018,7,201807,Non Weather,Attritional,13516285,5407,1350292
+Plan,Barclays,2018,8,201808,Non Weather,Attritional,13728392,5491,1383782
+Plan,Barclays,2018,9,201809,Non Weather,Attritional,12587330,5035,1261908
+Plan,Barclays,2018,10,201810,Non Weather,Attritional,12863665,5145,1292478
+Plan,Barclays,2018,11,201811,Non Weather,Attritional,13223546,5289,1319371
+Plan,Barclays,2018,12,201812,Non Weather,Attritional,13342289,5337,1344963
+Plan,Barclays,2019,1,201901,Non Weather,Attritional,14028680,5611,1395014
+Plan,Barclays,2019,2,201902,Non Weather,Attritional,14156905,5663,1423304
+Plan,Barclays,2019,3,201903,Non Weather,Attritional,13557809,5423,1364512
+Plan,Barclays,2019,4,201904,Non Weather,Attritional,13822371,5529,1373250
+Plan,Barclays,2019,5,201905,Non Weather,Attritional,13660321,5464,1363562
+Plan,Barclays,2019,6,201906,Non Weather,Attritional,13738593,5495,1372049
+Plan,Barclays,2019,7,201907,Non Weather,Attritional,13640280,5456,1371819
+Plan,Barclays,2019,8,201908,Non Weather,Attritional,13793820,5518,1384412
+Plan,Barclays,2019,9,201909,Non Weather,Attritional,14153388,5661,1420453
+Plan,Barclays,2019,10,201910,Non Weather,Attritional,14710285,5884,1458487
+Plan,Barclays,2019,11,201911,Non Weather,Attritional,14567809,5827,1449851
+Plan,Barclays,2019,12,201912,Non Weather,Attritional,14082408,5633,1409995
+Plan,Barclays,2018,7,201807,Non Weather,Large,13622038,5449,1357654
+Plan,Barclays,2018,8,201808,Non Weather,Large,13809368,5524,1379740
+Plan,Barclays,2018,9,201809,Non Weather,Large,12626349,5051,1269102
+Plan,Barclays,2018,10,201810,Non Weather,Large,12878454,5151,1295126
+Plan,Barclays,2018,11,201811,Non Weather,Large,13194095,5278,1321747
+Plan,Barclays,2018,12,201812,Non Weather,Large,13359505,5344,1333286
+Plan,Barclays,2019,1,201901,Non Weather,Large,14011353,5605,1391930
+Plan,Barclays,2019,2,201902,Non Weather,Large,14188696,5675,1419522
+Plan,Barclays,2019,3,201903,Non Weather,Large,13655026,5462,1362545
+Plan,Barclays,2019,4,201904,Non Weather,Large,13750149,5500,1371196
+Plan,Barclays,2019,5,201905,Non Weather,Large,13645848,5458,1375014
+Plan,Barclays,2019,6,201906,Non Weather,Large,13849701,5540,1378233
+Plan,Barclays,2019,7,201907,Non Weather,Large,13761404,5505,1376171
+Plan,Barclays,2019,8,201908,Non Weather,Large,13836370,5535,1377018
+Plan,Barclays,2019,9,201909,Non Weather,Large,14161041,5664,1419692
+Plan,Barclays,2019,10,201910,Non Weather,Large,14703609,5881,1458666
+Plan,Barclays,2019,11,201911,Non Weather,Large,14551512,5821,1456936
+Plan,Barclays,2019,12,201912,Non Weather,Large,14064359,5626,1406266
+Plan V2,Barclays,2018,9,201809,Non Weather,Attritional,11920416,4768,1189671
+Plan V2,Barclays,2018,10,201810,Non Weather,Attritional,12118484,4847,1213468
+Plan V2,Barclays,2018,11,201811,Non Weather,Attritional,12326110,4930,1231651
+Plan V2,Barclays,2018,12,201812,Non Weather,Attritional,12476336,4991,1248843
+Plan V2,Barclays,2019,1,201901,Non Weather,Attritional,12614670,5046,1264523
+Plan V2,Barclays,2019,2,201902,Non Weather,Attritional,12588594,5035,1269210
+Plan V2,Barclays,2019,3,201903,Non Weather,Attritional,12590158,5036,1264630
+Plan V2,Barclays,2019,4,201904,Non Weather,Attritional,12784947,5114,1271284
+Plan V2,Barclays,2019,5,201905,Non Weather,Attritional,12741241,5096,1264327
+Plan V2,Barclays,2019,6,201906,Non Weather,Attritional,12772398,5109,1271079
+Plan V2,Barclays,2019,7,201907,Non Weather,Attritional,12795058,5118,1281428
+Plan V2,Barclays,2019,8,201908,Non Weather,Attritional,12885951,5154,1287306
+Plan V2,Barclays,2019,9,201909,Non Weather,Attritional,13032453,5213,1302072
+Plan V2,Barclays,2019,10,201910,Non Weather,Attritional,13100410,5240,1305103
+Plan V2,Barclays,2019,11,201911,Non Weather,Attritional,13147488,5259,1308643
+Plan V2,Barclays,2019,12,201912,Non Weather,Attritional,13074830,5230,1303320
+Plan V2,Barclays,2018,9,201809,Non Weather,Large,11963446,4785,1191098
+Plan V2,Barclays,2018,10,201810,Non Weather,Large,12185012,4874,1222437
+Plan V2,Barclays,2018,11,201811,Non Weather,Large,12333066,4933,1233747
+Plan V2,Barclays,2018,12,201812,Non Weather,Large,12542332,5017,1251554
+Plan V2,Barclays,2019,1,201901,Non Weather,Large,12660605,5064,1267840
+Plan V2,Barclays,2019,2,201902,Non Weather,Large,12685610,5074,1258898
+Plan V2,Barclays,2019,3,201903,Non Weather,Large,12602647,5041,1259804
+Plan V2,Barclays,2019,4,201904,Non Weather,Large,12779275,5112,1269276
+Plan V2,Barclays,2019,5,201905,Non Weather,Large,12755400,5102,1267053
+Plan V2,Barclays,2019,6,201906,Non Weather,Large,12749002,5100,1276867
+Plan V2,Barclays,2019,7,201907,Non Weather,Large,12788917,5116,1279858
+Plan V2,Barclays,2019,8,201908,Non Weather,Large,12944753,5178,1294729
+Plan V2,Barclays,2019,9,201909,Non Weather,Large,13019437,5208,1308805
+Plan V2,Barclays,2019,10,201910,Non Weather,Large,13117866,5247,1303554
+Plan V2,Barclays,2019,11,201911,Non Weather,Large,13141359,5257,1307269
+Plan V2,Barclays,2019,12,201912,Non Weather,Large,13106343,5243,1303189
+Actual,HSBC,2016,1,201601,Non Weather,Attritional,3750968,1500,372339
+Actual,HSBC,2016,2,201602,Non Weather,Attritional,3700149,1480,367349
+Actual,HSBC,2016,3,201603,Non Weather,Attritional,3669719,1468,364770
+Actual,HSBC,2016,4,201604,Non Weather,Attritional,3611717,1445,361642
+Actual,HSBC,2016,5,201605,Non Weather,Attritional,3602814,1441,359106
+Actual,HSBC,2016,6,201606,Non Weather,Attritional,3535232,1414,354216
+Actual,HSBC,2016,7,201607,Non Weather,Attritional,3492513,1397,347731
+Actual,HSBC,2016,8,201608,Non Weather,Attritional,3446909,1379,344833
+Actual,HSBC,2016,9,201609,Non Weather,Attritional,3411095,1364,340975
+Actual,HSBC,2016,10,201610,Non Weather,Attritional,3388176,1355,337906
+Actual,HSBC,2016,11,201611,Non Weather,Attritional,3362806,1345,333883
+Actual,HSBC,2016,12,201612,Non Weather,Attritional,3278133,1311,327962
+Actual,HSBC,2017,1,201701,Non Weather,Attritional,3272964,1309,327000
+Actual,HSBC,2017,2,201702,Non Weather,Attritional,3231105,1292,322725
+Actual,HSBC,2017,3,201703,Non Weather,Attritional,3179588,1272,317692
+Actual,HSBC,2017,4,201704,Non Weather,Attritional,3118506,1247,310992
+Actual,HSBC,2017,5,201705,Non Weather,Attritional,3110596,1244,310532
+Actual,HSBC,2017,6,201706,Non Weather,Attritional,3078661,1231,308648
+Actual,HSBC,2017,7,201707,Non Weather,Attritional,3052297,1221,303628
+Actual,HSBC,2017,8,201708,Non Weather,Attritional,3026051,1210,300924
+Actual,HSBC,2017,9,201709,Non Weather,Attritional,2980649,1192,297111
+Actual,HSBC,2017,10,201710,Non Weather,Attritional,2945072,1178,294028
+Actual,HSBC,2017,11,201711,Non Weather,Attritional,2921445,1169,290382
+Actual,HSBC,2017,12,201712,Non Weather,Attritional,2907875,1163,291923
+Actual,HSBC,2018,1,201801,Non Weather,Attritional,2885811,1154,287191
+Actual,HSBC,2018,2,201802,Non Weather,Attritional,2852749,1141,284611
+Actual,HSBC,2018,3,201803,Non Weather,Attritional,2822030,1129,281739
+Actual,HSBC,2018,4,201804,Non Weather,Attritional,2803891,1122,278181
+Actual,HSBC,2018,5,201805,Non Weather,Attritional,2751327,1101,274602
+Actual,HSBC,2018,6,201806,Non Weather,Attritional,2717184,1087,271137
+Actual,HSBC,2018,7,201807,Non Weather,Attritional,2684220,1074,267862
+Actual,HSBC,2018,8,201808,Non Weather,Attritional,2629226,1052,263855
+Actual,HSBC,2018,9,201809,Non Weather,Attritional,3944902,1578,394442
+Actual,HSBC,2018,10,201810,Non Weather,Attritional,3915728,1566,394780
+Actual,HSBC,2018,11,201811,Non Weather,Attritional,3877513,1551,387891
+Actual,HSBC,2018,12,201812,Non Weather,Attritional,3818172,1527,384623
+Actual,HSBC,2016,4,201604,Non Weather,Large,3632592,1453,363772
+Actual,HSBC,2016,6,201606,Non Weather,Large,3551765,1421,355080
+Actual,HSBC,2016,7,201607,Non Weather,Large,3496956,1399,349332
+Actual,HSBC,2016,9,201609,Non Weather,Large,3412947,1365,343408
+Actual,HSBC,2016,11,201611,Non Weather,Large,3343128,1337,336020
+Actual,HSBC,2017,4,201704,Non Weather,Large,3133748,1253,311835
+Actual,HSBC,2017,6,201706,Non Weather,Large,3095494,1238,309252
+Actual,HSBC,2017,7,201707,Non Weather,Large,3058878,1224,306365
+Actual,HSBC,2018,1,201801,Non Weather,Large,2881143,1152,289110
+Actual,HSBC,2018,11,201811,Non Weather,Large,3885938,1554,389995
+Plan,HSBC,2018,7,201807,Non Weather,Attritional,7110960,2844,714485
+Plan,HSBC,2018,8,201808,Non Weather,Attritional,7019860,2808,701314
+Plan,HSBC,2018,9,201809,Non Weather,Attritional,6607281,2643,663643
+Plan,HSBC,2018,10,201810,Non Weather,Attritional,6799582,2720,678118
+Plan,HSBC,2018,11,201811,Non Weather,Attritional,6660329,2664,666065
+Plan,HSBC,2018,12,201812,Non Weather,Attritional,6728826,2692,669806
+Plan,HSBC,2019,1,201901,Non Weather,Attritional,6788825,2716,677547
+Plan,HSBC,2019,2,201902,Non Weather,Attritional,6762765,2705,675026
+Plan,HSBC,2019,3,201903,Non Weather,Attritional,6744234,2698,673405
+Plan,HSBC,2019,4,201904,Non Weather,Attritional,6785169,2714,678465
+Plan,HSBC,2019,5,201905,Non Weather,Attritional,6733271,2693,672808
+Plan,HSBC,2019,6,201906,Non Weather,Attritional,6726932,2691,674130
+Plan,HSBC,2019,7,201907,Non Weather,Attritional,6700173,2680,673071
+Plan,HSBC,2019,8,201908,Non Weather,Attritional,6732475,2693,672066
+Plan,HSBC,2019,9,201909,Non Weather,Attritional,6671914,2669,669347
+Plan,HSBC,2019,10,201910,Non Weather,Attritional,6642666,2657,662246
+Plan,HSBC,2019,11,201911,Non Weather,Attritional,6655477,2662,663606
+Plan,HSBC,2019,12,201912,Non Weather,Attritional,6654933,2662,667816
+Plan,HSBC,2018,7,201807,Non Weather,Large,7168547,2867,713712
+Plan,HSBC,2018,8,201808,Non Weather,Large,7047020,2819,700723
+Plan,HSBC,2018,9,201809,Non Weather,Large,6612000,2645,665022
+Plan,HSBC,2018,10,201810,Non Weather,Large,6813534,2725,677378
+Plan,HSBC,2018,11,201811,Non Weather,Large,6666339,2667,665380
+Plan,HSBC,2018,12,201812,Non Weather,Large,6713842,2686,669844
+Plan,HSBC,2019,1,201901,Non Weather,Large,6736321,2695,676098
+Plan,HSBC,2019,2,201902,Non Weather,Large,6732347,2693,675496
+Plan,HSBC,2019,3,201903,Non Weather,Large,6749482,2700,673636
+Plan,HSBC,2019,4,201904,Non Weather,Large,6799837,2720,677713
+Plan,HSBC,2019,5,201905,Non Weather,Large,6753679,2701,671036
+Plan,HSBC,2019,6,201906,Non Weather,Large,6739351,2696,671455
+Plan,HSBC,2019,7,201907,Non Weather,Large,6698843,2680,668390
+Plan,HSBC,2019,8,201908,Non Weather,Large,6698694,2679,675505
+Plan,HSBC,2019,9,201909,Non Weather,Large,6677581,2671,670699
+Plan,HSBC,2019,10,201910,Non Weather,Large,6635736,2654,661319
+Plan,HSBC,2019,11,201911,Non Weather,Large,6620078,2648,661038
+Plan,HSBC,2019,12,201912,Non Weather,Large,6698846,2680,665700
+Plan V2,HSBC,2018,9,201809,Non Weather,Attritional,3394732,1358,342359
+Plan V2,HSBC,2018,10,201810,Non Weather,Attritional,3391570,1357,338161
+Plan V2,HSBC,2018,11,201811,Non Weather,Attritional,3345559,1338,335548
+Plan V2,HSBC,2018,12,201812,Non Weather,Attritional,3323926,1330,332848
+Plan V2,HSBC,2019,1,201901,Non Weather,Attritional,3329426,1332,334566
+Plan V2,HSBC,2019,2,201902,Non Weather,Attritional,3348952,1340,333787
+Plan V2,HSBC,2019,3,201903,Non Weather,Attritional,3411537,1365,339090
+Plan V2,HSBC,2019,4,201904,Non Weather,Attritional,3445265,1378,343205
+Plan V2,HSBC,2019,5,201905,Non Weather,Attritional,3439400,1376,345522
+Plan V2,HSBC,2019,6,201906,Non Weather,Attritional,3445898,1378,343985
+Plan V2,HSBC,2019,7,201907,Non Weather,Attritional,3490280,1396,347931
+Plan V2,HSBC,2019,8,201908,Non Weather,Attritional,3452774,1381,346653
+Plan V2,HSBC,2019,9,201909,Non Weather,Attritional,3485563,1394,347404
+Plan V2,HSBC,2019,10,201910,Non Weather,Attritional,3521878,1409,349339
+Plan V2,HSBC,2019,11,201911,Non Weather,Attritional,3538395,1415,355196
+Plan V2,HSBC,2019,12,201912,Non Weather,Attritional,3547767,1419,355567
+Plan V2,HSBC,2018,9,201809,Non Weather,Large,3399734,1360,340562
+Plan V2,HSBC,2018,10,201810,Non Weather,Large,3409098,1364,340420
+Plan V2,HSBC,2018,11,201811,Non Weather,Large,3358351,1343,336348
+Plan V2,HSBC,2018,12,201812,Non Weather,Large,3331631,1333,334063
+Plan V2,HSBC,2019,1,201901,Non Weather,Large,3361555,1345,333959
+Plan V2,HSBC,2019,2,201902,Non Weather,Large,3358380,1343,334429
+Plan V2,HSBC,2019,3,201903,Non Weather,Large,3418550,1367,341464
+Plan V2,HSBC,2019,4,201904,Non Weather,Large,3422830,1369,342926
+Plan V2,HSBC,2019,5,201905,Non Weather,Large,3454890,1382,343832
+Plan V2,HSBC,2019,6,201906,Non Weather,Large,3422312,1369,344439
+Plan V2,HSBC,2019,7,201907,Non Weather,Large,3468850,1388,347559
+Plan V2,HSBC,2019,8,201908,Non Weather,Large,3463704,1385,346548
+Plan V2,HSBC,2019,9,201909,Non Weather,Large,3493133,1397,348098
+Plan V2,HSBC,2019,10,201910,Non Weather,Large,3500756,1400,350826
+Plan V2,HSBC,2019,11,201911,Non Weather,Large,3528484,1411,351873
+Plan V2,HSBC,2019,12,201912,Non Weather,Large,3541319,1417,354698
+Actual,IB APC,2016,1,201601,Non Weather,Attritional,10121898,4049,1013486
+Actual,IB APC,2016,2,201602,Non Weather,Attritional,10152935,4061,1012880
+Actual,IB APC,2016,3,201603,Non Weather,Attritional,10213354,4085,1021347
+Actual,IB APC,2016,4,201604,Non Weather,Attritional,10236501,4095,1025081
+Actual,IB APC,2016,5,201605,Non Weather,Attritional,10295257,4118,1025231
+Actual,IB APC,2016,6,201606,Non Weather,Attritional,10214222,4086,1028753
+Actual,IB APC,2016,7,201607,Non Weather,Attritional,10354062,4142,1031455
+Actual,IB APC,2016,8,201608,Non Weather,Attritional,10371975,4149,1037141
+Actual,IB APC,2016,9,201609,Non Weather,Attritional,10499198,4200,1049094
+Actual,IB APC,2016,10,201610,Non Weather,Attritional,10487872,4195,1048392
+Actual,IB APC,2016,11,201611,Non Weather,Attritional,10530612,4212,1050968
+Actual,IB APC,2016,12,201612,Non Weather,Attritional,10441622,4177,1051752
+Actual,IB APC,2017,1,201701,Non Weather,Attritional,10582732,4233,1052230
+Actual,IB APC,2017,2,201702,Non Weather,Attritional,10552859,4221,1054709
+Actual,IB APC,2017,3,201703,Non Weather,Attritional,10593890,4238,1060070
+Actual,IB APC,2017,4,201704,Non Weather,Attritional,10650064,4260,1061608
+Actual,IB APC,2017,5,201705,Non Weather,Attritional,10748992,4300,1072940
+Actual,IB APC,2017,6,201706,Non Weather,Attritional,10888679,4355,1088606
+Actual,IB APC,2017,7,201707,Non Weather,Attritional,10864193,4346,1081385
+Actual,IB APC,2017,8,201708,Non Weather,Attritional,10851418,4341,1088353
+Actual,IB APC,2017,9,201709,Non Weather,Attritional,10902727,4361,1089442
+Actual,IB APC,2017,10,201710,Non Weather,Attritional,10929844,4372,1091440
+Actual,IB APC,2017,11,201711,Non Weather,Attritional,11032033,4413,1105091
+Actual,IB APC,2017,12,201712,Non Weather,Attritional,11148435,4459,1108153
+Actual,IB APC,2018,1,201801,Non Weather,Attritional,11141456,4457,1110757
+Actual,IB APC,2018,2,201802,Non Weather,Attritional,11282622,4513,1125541
+Actual,IB APC,2018,3,201803,Non Weather,Attritional,11363152,4545,1131715
+Actual,IB APC,2018,4,201804,Non Weather,Attritional,11285672,4514,1135214
+Actual,IB APC,2018,5,201805,Non Weather,Attritional,11488597,4595,1144105
+Actual,IB APC,2018,6,201806,Non Weather,Attritional,11384135,4554,1134915
+Actual,IB APC,2018,7,201807,Non Weather,Attritional,11588612,4635,1153165
+Actual,IB APC,2018,8,201808,Non Weather,Attritional,11594756,4638,1151283
+Actual,IB APC,2018,9,201809,Non Weather,Attritional,11197572,4479,1119220
+Actual,IB APC,2018,10,201810,Non Weather,Attritional,11231523,4493,1124343
+Actual,IB APC,2018,11,201811,Non Weather,Attritional,11344590,4538,1131120
+Actual,IB APC,2018,12,201812,Non Weather,Attritional,11454335,4582,1136999
+Actual,IB APC,2017,3,201703,Non Weather,Large,10575995,4230,1063748
+Actual,IB APC,2017,4,201704,Non Weather,Large,10699988,4280,1068230
+Actual,IB APC,2017,7,201707,Non Weather,Large,10803996,4322,1089132
+Actual,IB APC,2017,8,201708,Non Weather,Large,10902850,4361,1084895
+Actual,IB APC,2017,9,201709,Non Weather,Large,10863851,4346,1090897
+Actual,IB APC,2017,10,201710,Non Weather,Large,10923804,4370,1098837
+Actual,IB APC,2017,11,201711,Non Weather,Large,11077135,4431,1112519
+Actual,IB APC,2017,12,201712,Non Weather,Large,11048262,4419,1112660
+Actual,IB APC,2018,1,201801,Non Weather,Large,11144402,4458,1114115
+Actual,IB APC,2018,2,201802,Non Weather,Large,11272396,4509,1126296
+Actual,IB APC,2018,3,201803,Non Weather,Large,11361868,4545,1125660
+Actual,IB APC,2018,4,201804,Non Weather,Large,11265394,4506,1136771
+Actual,IB APC,2018,5,201805,Non Weather,Large,11464083,4586,1139260
+Actual,IB APC,2018,6,201806,Non Weather,Large,11399020,4560,1136934
+Actual,IB APC,2018,7,201807,Non Weather,Large,11563254,4625,1156384
+Actual,IB APC,2018,8,201808,Non Weather,Large,11509190,4604,1158813
+Actual,IB APC,2018,11,201811,Non Weather,Large,11307714,4523,1134851
+Plan,IB APC,2018,7,201807,Non Weather,Attritional,8302328,3321,834357
+Plan,IB APC,2018,8,201808,Non Weather,Attritional,8413866,3366,838510
+Plan,IB APC,2018,9,201809,Non Weather,Attritional,6957397,2783,693609
+Plan,IB APC,2018,10,201810,Non Weather,Attritional,6962447,2785,693871
+Plan,IB APC,2018,11,201811,Non Weather,Attritional,7062979,2825,703477
+Plan,IB APC,2018,12,201812,Non Weather,Attritional,7050957,2820,707607
+Plan,IB APC,2019,1,201901,Non Weather,Attritional,7066823,2827,711771
+Plan,IB APC,2019,2,201902,Non Weather,Attritional,7171915,2869,719439
+Plan,IB APC,2019,3,201903,Non Weather,Attritional,7216907,2887,723496
+Plan,IB APC,2019,4,201904,Non Weather,Attritional,7201497,2881,721691
+Plan,IB APC,2019,5,201905,Non Weather,Attritional,7331352,2933,731877
+Plan,IB APC,2019,6,201906,Non Weather,Attritional,7259646,2904,724066
+Plan,IB APC,2019,7,201907,Non Weather,Attritional,7311687,2925,728784
+Plan,IB APC,2019,8,201908,Non Weather,Attritional,7414536,2966,740222
+Plan,IB APC,2019,9,201909,Non Weather,Attritional,7467154,2987,744308
+Plan,IB APC,2019,10,201910,Non Weather,Attritional,7490954,2996,744047
+Plan,IB APC,2019,11,201911,Non Weather,Attritional,7450176,2980,744883
+Plan,IB APC,2019,12,201912,Non Weather,Attritional,7486558,2995,751338
+Plan,IB APC,2018,7,201807,Non Weather,Large,8333381,3333,832099
+Plan,IB APC,2018,8,201808,Non Weather,Large,8342102,3337,837498
+Plan,IB APC,2018,9,201809,Non Weather,Large,6955471,2782,698706
+Plan,IB APC,2018,10,201810,Non Weather,Large,6940986,2776,699959
+Plan,IB APC,2018,11,201811,Non Weather,Large,7039124,2816,703109
+Plan,IB APC,2018,12,201812,Non Weather,Large,7074923,2830,702613
+Plan,IB APC,2019,1,201901,Non Weather,Large,7128271,2851,713134
+Plan,IB APC,2019,2,201902,Non Weather,Large,7148737,2859,717538
+Plan,IB APC,2019,3,201903,Non Weather,Large,7183953,2874,720974
+Plan,IB APC,2019,4,201904,Non Weather,Large,7244543,2898,724785
+Plan,IB APC,2019,5,201905,Non Weather,Large,7327645,2931,731009
+Plan,IB APC,2019,6,201906,Non Weather,Large,7260402,2904,726165
+Plan,IB APC,2019,7,201907,Non Weather,Large,7312946,2925,730210
+Plan,IB APC,2019,8,201908,Non Weather,Large,7381174,2952,737494
+Plan,IB APC,2019,9,201909,Non Weather,Large,7475968,2990,744756
+Plan,IB APC,2019,10,201910,Non Weather,Large,7433098,2973,745016
+Plan,IB APC,2019,11,201911,Non Weather,Large,7451294,2981,745485
+Plan,IB APC,2019,12,201912,Non Weather,Large,7506546,3003,748197
+Plan V2,IB APC,2018,9,201809,Non Weather,Attritional,9014203,3606,904371
+Plan V2,IB APC,2018,10,201810,Non Weather,Attritional,9037422,3615,906654
+Plan V2,IB APC,2018,11,201811,Non Weather,Attritional,9023194,3609,907814
+Plan V2,IB APC,2018,12,201812,Non Weather,Attritional,8990880,3596,905285
+Plan V2,IB APC,2019,1,201901,Non Weather,Attritional,9087663,3635,907774
+Plan V2,IB APC,2019,2,201902,Non Weather,Attritional,9116233,3646,911250
+Plan V2,IB APC,2019,3,201903,Non Weather,Attritional,9143564,3657,912474
+Plan V2,IB APC,2019,4,201904,Non Weather,Attritional,9237220,3695,921835
+Plan V2,IB APC,2019,5,201905,Non Weather,Attritional,9378401,3751,937937
+Plan V2,IB APC,2019,6,201906,Non Weather,Attritional,9421412,3769,938605
+Plan V2,IB APC,2019,7,201907,Non Weather,Attritional,9467652,3787,948390
+Plan V2,IB APC,2019,8,201908,Non Weather,Attritional,9586624,3835,957963
+Plan V2,IB APC,2019,9,201909,Non Weather,Attritional,9667232,3867,959338
+Plan V2,IB APC,2019,10,201910,Non Weather,Attritional,9623533,3849,958373
+Plan V2,IB APC,2019,11,201911,Non Weather,Attritional,9600873,3840,960756
+Plan V2,IB APC,2019,12,201912,Non Weather,Attritional,9593247,3837,956736
+Plan V2,IB APC,2018,9,201809,Non Weather,Large,9041931,3617,897228
+Plan V2,IB APC,2018,10,201810,Non Weather,Large,9004534,3602,900335
+Plan V2,IB APC,2018,11,201811,Non Weather,Large,9081741,3633,904488
+Plan V2,IB APC,2018,12,201812,Non Weather,Large,9054809,3622,904501
+Plan V2,IB APC,2019,1,201901,Non Weather,Large,9026574,3611,908996
+Plan V2,IB APC,2019,2,201902,Non Weather,Large,9114069,3646,908939
+Plan V2,IB APC,2019,3,201903,Non Weather,Large,9105446,3642,917083
+Plan V2,IB APC,2019,4,201904,Non Weather,Large,9236423,3695,925130
+Plan V2,IB APC,2019,5,201905,Non Weather,Large,9378322,3751,939102
+Plan V2,IB APC,2019,6,201906,Non Weather,Large,9388514,3755,935716
+Plan V2,IB APC,2019,7,201907,Non Weather,Large,9407321,3763,940538
+Plan V2,IB APC,2019,8,201908,Non Weather,Large,9594425,3838,958520
+Plan V2,IB APC,2019,9,201909,Non Weather,Large,9614760,3846,964551
+Plan V2,IB APC,2019,10,201910,Non Weather,Large,9554110,3822,959287
+Plan V2,IB APC,2019,11,201911,Non Weather,Large,9571499,3829,956464
+Plan V2,IB APC,2019,12,201912,Non Weather,Large,9598418,3839,955220
+Actual,IB Main ex APC,2016,1,201601,Non Weather,Attritional,3431978,1373,341639
+Actual,IB Main ex APC,2016,2,201602,Non Weather,Attritional,3460146,1384,346418
+Actual,IB Main ex APC,2016,3,201603,Non Weather,Attritional,3460053,1384,344888
+Actual,IB Main ex APC,2016,4,201604,Non Weather,Attritional,3485067,1394,349194
+Actual,IB Main ex APC,2016,5,201605,Non Weather,Attritional,3520219,1408,352609
+Actual,IB Main ex APC,2016,6,201606,Non Weather,Attritional,3524734,1410,353358
+Actual,IB Main ex APC,2016,7,201607,Non Weather,Attritional,3541585,1417,353588
+Actual,IB Main ex APC,2016,8,201608,Non Weather,Attritional,3582435,1433,357675
+Actual,IB Main ex APC,2016,9,201609,Non Weather,Attritional,3565619,1426,358789
+Actual,IB Main ex APC,2016,10,201610,Non Weather,Attritional,3595698,1438,359433
+Actual,IB Main ex APC,2016,11,201611,Non Weather,Attritional,3606039,1442,359077
+Actual,IB Main ex APC,2016,12,201612,Non Weather,Attritional,3640649,1456,364651
+Actual,IB Main ex APC,2017,1,201701,Non Weather,Attritional,3675635,1470,368005
+Actual,IB Main ex APC,2017,2,201702,Non Weather,Attritional,3709922,1484,368936
+Actual,IB Main ex APC,2017,3,201703,Non Weather,Attritional,3705774,1482,370708
+Actual,IB Main ex APC,2017,4,201704,Non Weather,Attritional,3703337,1481,372303
+Actual,IB Main ex APC,2017,5,201705,Non Weather,Attritional,3734456,1494,372261
+Actual,IB Main ex APC,2017,6,201706,Non Weather,Attritional,3774316,1510,374816
+Actual,IB Main ex APC,2017,7,201707,Non Weather,Attritional,3796600,1519,376869
+Actual,IB Main ex APC,2017,8,201708,Non Weather,Attritional,3801096,1520,378255
+Actual,IB Main ex APC,2017,9,201709,Non Weather,Attritional,3820679,1528,383634
+Actual,IB Main ex APC,2017,10,201710,Non Weather,Attritional,3829845,1532,381240
+Actual,IB Main ex APC,2017,11,201711,Non Weather,Attritional,3824445,1530,384841
+Actual,IB Main ex APC,2017,12,201712,Non Weather,Attritional,3865371,1546,384730
+Actual,IB Main ex APC,2018,1,201801,Non Weather,Attritional,3847321,1539,387305
+Actual,IB Main ex APC,2018,2,201802,Non Weather,Attritional,3894117,1558,389799
+Actual,IB Main ex APC,2018,3,201803,Non Weather,Attritional,3911552,1565,392713
+Actual,IB Main ex APC,2018,4,201804,Non Weather,Attritional,3940727,1576,394337
+Actual,IB Main ex APC,2018,5,201805,Non Weather,Attritional,3936439,1575,393318
+Actual,IB Main ex APC,2018,6,201806,Non Weather,Attritional,3945689,1578,397440
+Actual,IB Main ex APC,2018,7,201807,Non Weather,Attritional,3964878,1586,397036
+Actual,IB Main ex APC,2018,8,201808,Non Weather,Attritional,3997581,1599,398496
+Actual,IB Main ex APC,2018,9,201809,Non Weather,Attritional,4415496,1766,443977
+Actual,IB Main ex APC,2018,10,201810,Non Weather,Attritional,4487132,1795,446867
+Actual,IB Main ex APC,2018,11,201811,Non Weather,Attritional,4524180,1810,449329
+Actual,IB Main ex APC,2018,12,201812,Non Weather,Attritional,4526859,1811,449385
+Actual,IB Main ex APC,2016,1,201601,Non Weather,Large,3420367,1368,341403
+Actual,IB Main ex APC,2016,2,201602,Non Weather,Large,3441082,1376,344223
+Actual,IB Main ex APC,2016,3,201603,Non Weather,Large,3453679,1381,347449
+Actual,IB Main ex APC,2016,4,201604,Non Weather,Large,3473948,1390,347252
+Actual,IB Main ex APC,2016,5,201605,Non Weather,Large,3528012,1411,351145
+Actual,IB Main ex APC,2016,6,201606,Non Weather,Large,3519137,1408,351628
+Actual,IB Main ex APC,2016,7,201607,Non Weather,Large,3544949,1418,351493
+Actual,IB Main ex APC,2016,8,201608,Non Weather,Large,3584517,1434,356228
+Actual,IB Main ex APC,2016,9,201609,Non Weather,Large,3580809,1432,357624
+Actual,IB Main ex APC,2016,10,201610,Non Weather,Large,3626337,1451,359139
+Actual,IB Main ex APC,2016,11,201611,Non Weather,Large,3588256,1435,361794
+Actual,IB Main ex APC,2016,12,201612,Non Weather,Large,3634226,1454,362763
+Actual,IB Main ex APC,2017,1,201701,Non Weather,Large,3666379,1467,365681
+Actual,IB Main ex APC,2017,2,201702,Non Weather,Large,3679351,1472,369129
+Actual,IB Main ex APC,2017,3,201703,Non Weather,Large,3697871,1479,370093
+Actual,IB Main ex APC,2017,4,201704,Non Weather,Large,3724513,1490,373051
+Actual,IB Main ex APC,2017,5,201705,Non Weather,Large,3729628,1492,372655
+Actual,IB Main ex APC,2017,6,201706,Non Weather,Large,3749735,1500,376451
+Actual,IB Main ex APC,2017,7,201707,Non Weather,Large,3783434,1513,379610
+Actual,IB Main ex APC,2017,8,201708,Non Weather,Large,3786551,1515,378416
+Actual,IB Main ex APC,2017,9,201709,Non Weather,Large,3848162,1539,382470
+Actual,IB Main ex APC,2017,10,201710,Non Weather,Large,3806900,1523,381287
+Actual,IB Main ex APC,2017,11,201711,Non Weather,Large,3854808,1542,382574
+Actual,IB Main ex APC,2017,12,201712,Non Weather,Large,3860880,1544,385693
+Actual,IB Main ex APC,2018,1,201801,Non Weather,Large,3875968,1550,385255
+Actual,IB Main ex APC,2018,2,201802,Non Weather,Large,3888618,1555,388179
+Actual,IB Main ex APC,2018,3,201803,Non Weather,Large,3913632,1565,392401
+Actual,IB Main ex APC,2018,5,201805,Non Weather,Large,3946538,1579,394222
+Actual,IB Main ex APC,2018,6,201806,Non Weather,Large,3950864,1580,396040
+Actual,IB Main ex APC,2018,7,201807,Non Weather,Large,3951823,1581,397787
+Actual,IB Main ex APC,2018,8,201808,Non Weather,Large,3996808,1599,401863
+Actual,IB Main ex APC,2018,10,201810,Non Weather,Large,4476406,1791,446220
+Plan,IB Main ex APC,2018,7,201807,Non Weather,Attritional,2273533,909,228310
+Plan,IB Main ex APC,2018,8,201808,Non Weather,Attritional,2294793,918,231295
+Plan,IB Main ex APC,2018,9,201809,Non Weather,Attritional,2953656,1181,295972
+Plan,IB Main ex APC,2018,10,201810,Non Weather,Attritional,2957059,1183,296155
+Plan,IB Main ex APC,2018,11,201811,Non Weather,Attritional,2990646,1196,299097
+Plan,IB Main ex APC,2018,12,201812,Non Weather,Attritional,3007091,1203,300308
+Plan,IB Main ex APC,2019,1,201901,Non Weather,Attritional,3042517,1217,305131
+Plan,IB Main ex APC,2019,2,201902,Non Weather,Attritional,3063934,1226,304885
+Plan,IB Main ex APC,2019,3,201903,Non Weather,Attritional,3055413,1222,308496
+Plan,IB Main ex APC,2019,4,201904,Non Weather,Attritional,3081763,1233,307741
+Plan,IB Main ex APC,2019,5,201905,Non Weather,Attritional,3079210,1232,307817
+Plan,IB Main ex APC,2019,6,201906,Non Weather,Attritional,3104292,1242,310036
+Plan,IB Main ex APC,2019,7,201907,Non Weather,Attritional,3130988,1252,312948
+Plan,IB Main ex APC,2019,8,201908,Non Weather,Attritional,3109245,1244,311549
+Plan,IB Main ex APC,2019,9,201909,Non Weather,Attritional,3152082,1261,314001
+Plan,IB Main ex APC,2019,10,201910,Non Weather,Attritional,3181023,1272,315894
+Plan,IB Main ex APC,2019,11,201911,Non Weather,Attritional,3142264,1257,314628
+Plan,IB Main ex APC,2019,12,201912,Non Weather,Attritional,3154311,1262,316376
+Plan,IB Main ex APC,2018,7,201807,Non Weather,Large,2279373,912,226231
+Plan,IB Main ex APC,2018,8,201808,Non Weather,Large,2311427,925,229699
+Plan,IB Main ex APC,2018,9,201809,Non Weather,Large,2949227,1180,296664
+Plan,IB Main ex APC,2018,10,201810,Non Weather,Large,2955692,1182,297627
+Plan,IB Main ex APC,2018,11,201811,Non Weather,Large,2974088,1190,297376
+Plan,IB Main ex APC,2018,12,201812,Non Weather,Large,3019214,1208,300394
+Plan,IB Main ex APC,2019,1,201901,Non Weather,Large,3057413,1223,303422
+Plan,IB Main ex APC,2019,2,201902,Non Weather,Large,3066608,1227,307097
+Plan,IB Main ex APC,2019,3,201903,Non Weather,Large,3062414,1225,308144
+Plan,IB Main ex APC,2019,4,201904,Non Weather,Large,3094255,1238,307719
+Plan,IB Main ex APC,2019,5,201905,Non Weather,Large,3076122,1230,309036
+Plan,IB Main ex APC,2019,6,201906,Non Weather,Large,3104348,1242,309737
+Plan,IB Main ex APC,2019,7,201907,Non Weather,Large,3134254,1254,312505
+Plan,IB Main ex APC,2019,8,201908,Non Weather,Large,3124710,1250,312377
+Plan,IB Main ex APC,2019,9,201909,Non Weather,Large,3142658,1257,314364
+Plan,IB Main ex APC,2019,10,201910,Non Weather,Large,3178351,1271,317945
+Plan,IB Main ex APC,2019,11,201911,Non Weather,Large,3167136,1267,316155
+Plan,IB Main ex APC,2019,12,201912,Non Weather,Large,3162310,1265,315131
+Plan V2,IB Main ex APC,2018,9,201809,Non Weather,Attritional,2724179,1090,270615
+Plan V2,IB Main ex APC,2018,10,201810,Non Weather,Attritional,2737373,1095,272344
+Plan V2,IB Main ex APC,2018,11,201811,Non Weather,Attritional,2723983,1090,272401
+Plan V2,IB Main ex APC,2018,12,201812,Non Weather,Attritional,2741998,1097,274641
+Plan V2,IB Main ex APC,2019,1,201901,Non Weather,Attritional,2788565,1115,278100
+Plan V2,IB Main ex APC,2019,2,201902,Non Weather,Attritional,2797013,1119,281293
+Plan V2,IB Main ex APC,2019,3,201903,Non Weather,Attritional,2834387,1134,282233
+Plan V2,IB Main ex APC,2019,4,201904,Non Weather,Attritional,2845065,1138,284981
+Plan V2,IB Main ex APC,2019,5,201905,Non Weather,Attritional,2855292,1142,285676
+Plan V2,IB Main ex APC,2019,6,201906,Non Weather,Attritional,2867188,1147,286066
+Plan V2,IB Main ex APC,2019,7,201907,Non Weather,Attritional,2874601,1150,287497
+Plan V2,IB Main ex APC,2019,8,201908,Non Weather,Attritional,2925914,1170,289920
+Plan V2,IB Main ex APC,2019,9,201909,Non Weather,Attritional,2914324,1166,290720
+Plan V2,IB Main ex APC,2019,10,201910,Non Weather,Attritional,2930923,1172,291798
+Plan V2,IB Main ex APC,2019,11,201911,Non Weather,Attritional,2948591,1179,296448
+Plan V2,IB Main ex APC,2019,12,201912,Non Weather,Attritional,2984561,1194,299165
+Plan V2,IB Main ex APC,2018,9,201809,Non Weather,Large,2712297,1085,270660
+Plan V2,IB Main ex APC,2018,10,201810,Non Weather,Large,2725070,1090,271439
+Plan V2,IB Main ex APC,2018,11,201811,Non Weather,Large,2723956,1090,273008
+Plan V2,IB Main ex APC,2018,12,201812,Non Weather,Large,2745239,1098,274994
+Plan V2,IB Main ex APC,2019,1,201901,Non Weather,Large,2777696,1111,278782
+Plan V2,IB Main ex APC,2019,2,201902,Non Weather,Large,2804690,1122,279216
+Plan V2,IB Main ex APC,2019,3,201903,Non Weather,Large,2833843,1134,282716
+Plan V2,IB Main ex APC,2019,4,201904,Non Weather,Large,2851789,1141,284002
+Plan V2,IB Main ex APC,2019,5,201905,Non Weather,Large,2873072,1149,286361
+Plan V2,IB Main ex APC,2019,6,201906,Non Weather,Large,2863063,1145,287809
+Plan V2,IB Main ex APC,2019,7,201907,Non Weather,Large,2881142,1152,286944
+Plan V2,IB Main ex APC,2019,8,201908,Non Weather,Large,2900168,1160,290393
+Plan V2,IB Main ex APC,2019,9,201909,Non Weather,Large,2901385,1161,290760
+Plan V2,IB Main ex APC,2019,10,201910,Non Weather,Large,2919336,1168,293283
+Plan V2,IB Main ex APC,2019,11,201911,Non Weather,Large,2963908,1186,294684
+Plan V2,IB Main ex APC,2019,12,201912,Non Weather,Large,2994683,1198,298360
+Actual,Santander,2016,1,201601,Non Weather,Attritional,8923233,3569,885853
+Actual,Santander,2016,2,201602,Non Weather,Attritional,8978249,3591,893860
+Actual,Santander,2016,3,201603,Non Weather,Attritional,9071325,3629,906287
+Actual,Santander,2016,4,201604,Non Weather,Attritional,9030832,3612,899872
+Actual,Santander,2016,5,201605,Non Weather,Attritional,9082428,3633,906676
+Actual,Santander,2016,6,201606,Non Weather,Attritional,9121994,3649,916936
+Actual,Santander,2016,7,201607,Non Weather,Attritional,9184525,3674,914815
+Actual,Santander,2016,8,201608,Non Weather,Attritional,9166985,3667,923350
+Actual,Santander,2016,9,201609,Non Weather,Attritional,9255875,3702,922891
+Actual,Santander,2016,10,201610,Non Weather,Attritional,9319203,3728,932941
+Actual,Santander,2016,11,201611,Non Weather,Attritional,9334155,3734,933489
+Actual,Santander,2016,12,201612,Non Weather,Attritional,9361677,3745,937401
+Actual,Santander,2017,1,201701,Non Weather,Attritional,9512510,3805,948419
+Actual,Santander,2017,2,201702,Non Weather,Attritional,9570762,3828,957747
+Actual,Santander,2017,3,201703,Non Weather,Attritional,9714981,3886,963782
+Actual,Santander,2017,4,201704,Non Weather,Attritional,9737687,3895,975495
+Actual,Santander,2017,5,201705,Non Weather,Attritional,9703409,3881,976656
+Actual,Santander,2017,6,201706,Non Weather,Attritional,9836907,3935,977540
+Actual,Santander,2017,7,201707,Non Weather,Attritional,9819310,3928,982275
+Actual,Santander,2017,8,201708,Non Weather,Attritional,9821288,3929,987359
+Actual,Santander,2017,9,201709,Non Weather,Attritional,9964433,3986,992055
+Actual,Santander,2017,10,201710,Non Weather,Attritional,9966056,3986,989600
+Actual,Santander,2017,11,201711,Non Weather,Attritional,9958155,3983,997728
+Actual,Santander,2017,12,201712,Non Weather,Attritional,10008878,4004,1000342
+Actual,Santander,2018,1,201801,Non Weather,Attritional,10020674,4008,997729
+Actual,Santander,2018,2,201802,Non Weather,Attritional,10000892,4000,1000122
+Actual,Santander,2018,3,201803,Non Weather,Attritional,10167895,4067,1017719
+Actual,Santander,2018,4,201804,Non Weather,Attritional,10223487,4089,1021578
+Actual,Santander,2018,5,201805,Non Weather,Attritional,10264887,4106,1029005
+Actual,Santander,2018,6,201806,Non Weather,Attritional,10317172,4127,1033746
+Actual,Santander,2018,7,201807,Non Weather,Attritional,10357589,4143,1034963
+Actual,Santander,2018,8,201808,Non Weather,Attritional,10473649,4189,1043592
+Actual,Santander,2018,9,201809,Non Weather,Attritional,7028449,2811,699186
+Actual,Santander,2018,10,201810,Non Weather,Attritional,7035213,2814,706703
+Actual,Santander,2018,11,201811,Non Weather,Attritional,7082430,2833,707904
+Actual,Santander,2018,12,201812,Non Weather,Attritional,7072104,2829,710693
+Actual,Santander,2016,1,201601,Non Weather,Large,8910503,3564,886257
+Actual,Santander,2016,2,201602,Non Weather,Large,8943911,3578,895600
+Actual,Santander,2016,3,201603,Non Weather,Large,9066387,3627,907304
+Actual,Santander,2016,5,201605,Non Weather,Large,9097511,3639,903841
+Actual,Santander,2016,7,201607,Non Weather,Large,9132122,3653,916695
+Actual,Santander,2016,8,201608,Non Weather,Large,9165959,3666,921532
+Actual,Santander,2017,1,201701,Non Weather,Large,9523124,3809,943590
+Actual,Santander,2017,2,201702,Non Weather,Large,9521747,3809,952352
+Actual,Santander,2017,3,201703,Non Weather,Large,9695906,3878,964598
+Actual,Santander,2017,6,201706,Non Weather,Large,9823532,3929,980705
+Actual,Santander,2017,7,201707,Non Weather,Large,9875493,3950,980597
+Actual,Santander,2017,8,201708,Non Weather,Large,9856701,3943,983623
+Actual,Santander,2017,9,201709,Non Weather,Large,9942459,3977,991645
+Actual,Santander,2017,10,201710,Non Weather,Large,9952971,3981,994230
+Actual,Santander,2018,1,201801,Non Weather,Large,9980299,3992,1004336
+Actual,Santander,2018,2,201802,Non Weather,Large,10060174,4024,1006330
+Actual,Santander,2018,3,201803,Non Weather,Large,10150739,4060,1012128
+Actual,Santander,2018,5,201805,Non Weather,Large,10333179,4133,1032765
+Actual,Santander,2018,7,201807,Non Weather,Large,10416467,4167,1040034
+Actual,Santander,2018,8,201808,Non Weather,Large,10426396,4171,1040985
+Actual,Santander,2018,9,201809,Non Weather,Large,6981764,2793,701764
+Plan,Santander,2018,7,201807,Non Weather,Attritional,8717120,3487,875560
+Plan,Santander,2018,8,201808,Non Weather,Attritional,8784843,3514,880765
+Plan,Santander,2018,9,201809,Non Weather,Attritional,9196598,3679,919957
+Plan,Santander,2018,10,201810,Non Weather,Attritional,9281779,3713,924222
+Plan,Santander,2018,11,201811,Non Weather,Attritional,9349371,3740,926151
+Plan,Santander,2018,12,201812,Non Weather,Attritional,9329622,3732,929393
+Plan,Santander,2019,1,201901,Non Weather,Attritional,9402727,3761,949455
+Plan,Santander,2019,2,201902,Non Weather,Attritional,9536555,3815,955145
+Plan,Santander,2019,3,201903,Non Weather,Attritional,9473849,3790,950820
+Plan,Santander,2019,4,201904,Non Weather,Attritional,9560446,3824,961164
+Plan,Santander,2019,5,201905,Non Weather,Attritional,9595964,3838,960167
+Plan,Santander,2019,6,201906,Non Weather,Attritional,9748226,3899,971283
+Plan,Santander,2019,7,201907,Non Weather,Attritional,9758163,3903,970260
+Plan,Santander,2019,8,201908,Non Weather,Attritional,9806793,3923,986405
+Plan,Santander,2019,9,201909,Non Weather,Attritional,9807052,3923,988125
+Plan,Santander,2019,10,201910,Non Weather,Attritional,9867915,3947,990991
+Plan,Santander,2019,11,201911,Non Weather,Attritional,9941435,3977,995677
+Plan,Santander,2019,12,201912,Non Weather,Attritional,9949520,3980,998277
+Plan,Santander,2018,7,201807,Non Weather,Large,8707546,3483,872000
+Plan,Santander,2018,8,201808,Non Weather,Large,8833266,3533,880987
+Plan,Santander,2018,9,201809,Non Weather,Large,9135479,3654,912712
+Plan,Santander,2018,10,201810,Non Weather,Large,9231311,3693,926315
+Plan,Santander,2018,11,201811,Non Weather,Large,9318591,3727,926242
+Plan,Santander,2018,12,201812,Non Weather,Large,9316877,3727,933247
+Plan,Santander,2019,1,201901,Non Weather,Large,9425975,3770,942003
+Plan,Santander,2019,2,201902,Non Weather,Large,9536171,3814,950298
+Plan,Santander,2019,3,201903,Non Weather,Large,9503534,3801,948315
+Plan,Santander,2019,4,201904,Non Weather,Large,9560715,3824,959919
+Plan,Santander,2019,5,201905,Non Weather,Large,9578317,3831,960909
+Plan,Santander,2019,6,201906,Non Weather,Large,9686380,3875,975712
+Plan,Santander,2019,7,201907,Non Weather,Large,9731113,3892,977610
+Plan,Santander,2019,8,201908,Non Weather,Large,9853401,3941,979889
+Plan,Santander,2019,9,201909,Non Weather,Large,9896428,3959,986445
+Plan,Santander,2019,10,201910,Non Weather,Large,9854219,3942,991959
+Plan,Santander,2019,11,201911,Non Weather,Large,10002969,4001,995043
+Plan,Santander,2019,12,201912,Non Weather,Large,10000296,4000,993989
+Plan V2,Santander,2018,9,201809,Non Weather,Attritional,7737192,3095,770435
+Plan V2,Santander,2018,10,201810,Non Weather,Attritional,7666827,3067,771716
+Plan V2,Santander,2018,11,201811,Non Weather,Attritional,7727702,3091,776434
+Plan V2,Santander,2018,12,201812,Non Weather,Attritional,7780598,3112,776706
+Plan V2,Santander,2019,1,201901,Non Weather,Attritional,7790154,3116,778879
+Plan V2,Santander,2019,2,201902,Non Weather,Attritional,7862944,3145,781231
+Plan V2,Santander,2019,3,201903,Non Weather,Attritional,7899337,3160,788728
+Plan V2,Santander,2019,4,201904,Non Weather,Attritional,7932697,3173,793975
+Plan V2,Santander,2019,5,201905,Non Weather,Attritional,7961673,3185,792392
+Plan V2,Santander,2019,6,201906,Non Weather,Attritional,8032161,3213,801762
+Plan V2,Santander,2019,7,201907,Non Weather,Attritional,7994721,3198,801504
+Plan V2,Santander,2019,8,201908,Non Weather,Attritional,8022976,3209,805250
+Plan V2,Santander,2019,9,201909,Non Weather,Attritional,8046957,3219,803854
+Plan V2,Santander,2019,10,201910,Non Weather,Attritional,8095447,3238,812438
+Plan V2,Santander,2019,11,201911,Non Weather,Attritional,8096091,3238,808496
+Plan V2,Santander,2019,12,201912,Non Weather,Attritional,8095239,3238,812485
+Plan V2,Santander,2018,9,201809,Non Weather,Large,7715185,3086,770006
+Plan V2,Santander,2018,10,201810,Non Weather,Large,7716365,3087,772471
+Plan V2,Santander,2018,11,201811,Non Weather,Large,7721857,3089,778078
+Plan V2,Santander,2018,12,201812,Non Weather,Large,7788221,3115,780387
+Plan V2,Santander,2019,1,201901,Non Weather,Large,7791887,3117,783552
+Plan V2,Santander,2019,2,201902,Non Weather,Large,7831022,3132,786275
+Plan V2,Santander,2019,3,201903,Non Weather,Large,7897985,3159,784490
+Plan V2,Santander,2019,4,201904,Non Weather,Large,7886857,3155,789697
+Plan V2,Santander,2019,5,201905,Non Weather,Large,7974538,3190,790631
+Plan V2,Santander,2019,6,201906,Non Weather,Large,8006337,3203,799298
+Plan V2,Santander,2019,7,201907,Non Weather,Large,7967033,3187,795814
+Plan V2,Santander,2019,8,201908,Non Weather,Large,8002201,3201,798237
+Plan V2,Santander,2019,9,201909,Non Weather,Large,8077023,3231,803979
+Plan V2,Santander,2019,10,201910,Non Weather,Large,8088849,3236,812795
+Plan V2,Santander,2019,11,201911,Non Weather,Large,8152974,3261,811474
+Plan V2,Santander,2019,12,201912,Non Weather,Large,8109528,3244,809890
+Actual,TSB,2016,1,201601,Non Weather,Attritional,308886,124,30843
+Actual,TSB,2016,2,201602,Non Weather,Attritional,309435,124,30810
+Actual,TSB,2016,3,201603,Non Weather,Attritional,312598,125,31160
+Actual,TSB,2016,4,201604,Non Weather,Attritional,314858,126,31388
+Actual,TSB,2016,5,201605,Non Weather,Attritional,316730,127,31625
+Actual,TSB,2016,6,201606,Non Weather,Attritional,316884,127,31800
+Actual,TSB,2016,7,201607,Non Weather,Attritional,321082,128,32074
+Actual,TSB,2016,8,201608,Non Weather,Attritional,320876,128,32082
+Actual,TSB,2016,9,201609,Non Weather,Attritional,324389,130,32287
+Actual,TSB,2016,10,201610,Non Weather,Attritional,323947,130,32507
+Actual,TSB,2016,11,201611,Non Weather,Attritional,324336,130,32339
+Actual,TSB,2016,12,201612,Non Weather,Attritional,324472,130,32208
+Actual,TSB,2017,1,201701,Non Weather,Attritional,323852,130,32490
+Actual,TSB,2017,2,201702,Non Weather,Attritional,327937,131,33016
+Actual,TSB,2017,3,201703,Non Weather,Attritional,331487,133,33266
+Actual,TSB,2017,4,201704,Non Weather,Attritional,333581,133,33573
+Actual,TSB,2017,5,201705,Non Weather,Attritional,333750,134,33630
+Actual,TSB,2017,6,201706,Non Weather,Attritional,336547,135,33647
+Actual,TSB,2017,7,201707,Non Weather,Attritional,340464,136,33967
+Actual,TSB,2017,8,201708,Non Weather,Attritional,344638,138,34297
+Actual,TSB,2017,9,201709,Non Weather,Attritional,346473,139,34522
+Actual,TSB,2017,10,201710,Non Weather,Attritional,344810,138,34497
+Actual,TSB,2017,11,201711,Non Weather,Attritional,345257,138,34685
+Actual,TSB,2017,12,201712,Non Weather,Attritional,347484,139,34998
+Actual,TSB,2018,1,201801,Non Weather,Attritional,348195,139,34863
+Actual,TSB,2018,2,201802,Non Weather,Attritional,354818,142,35449
+Actual,TSB,2018,3,201803,Non Weather,Attritional,353421,141,35266
+Actual,TSB,2018,4,201804,Non Weather,Attritional,354388,142,35549
+Actual,TSB,2018,5,201805,Non Weather,Attritional,355661,142,35806
+Actual,TSB,2018,6,201806,Non Weather,Attritional,358038,143,35959
+Actual,TSB,2018,7,201807,Non Weather,Attritional,359203,144,36167
+Actual,TSB,2018,8,201808,Non Weather,Attritional,366520,147,36547
+Actual,TSB,2018,9,201809,Non Weather,Attritional,361945,145,36314
+Actual,TSB,2018,10,201810,Non Weather,Attritional,364625,146,36127
+Actual,TSB,2018,11,201811,Non Weather,Attritional,363658,145,36421
+Actual,TSB,2018,12,201812,Non Weather,Attritional,363587,145,36429
+Actual,TSB,2016,11,201611,Non Weather,Large,323077,129,32207
+Actual,TSB,2018,3,201803,Non Weather,Large,355048,142,35446
+Actual,TSB,2018,7,201807,Non Weather,Large,360872,144,36193
+Actual,TSB,2018,8,201808,Non Weather,Large,366376,147,36595
+Plan,TSB,2018,7,201807,Non Weather,Attritional,462167,185,46192
+Plan,TSB,2018,8,201808,Non Weather,Attritional,468835,188,46644
+Plan,TSB,2018,9,201809,Non Weather,Attritional,421374,169,42000
+Plan,TSB,2018,10,201810,Non Weather,Attritional,425216,170,42472
+Plan,TSB,2018,11,201811,Non Weather,Attritional,424441,170,42223
+Plan,TSB,2018,12,201812,Non Weather,Attritional,428469,171,42788
+Plan,TSB,2019,1,201901,Non Weather,Attritional,428998,172,43036
+Plan,TSB,2019,2,201902,Non Weather,Attritional,433766,174,43644
+Plan,TSB,2019,3,201903,Non Weather,Attritional,434785,174,43454
+Plan,TSB,2019,4,201904,Non Weather,Attritional,438677,175,44227
+Plan,TSB,2019,5,201905,Non Weather,Attritional,439068,176,43880
+Plan,TSB,2019,6,201906,Non Weather,Attritional,442758,177,44227
+Plan,TSB,2019,7,201907,Non Weather,Attritional,444463,178,44413
+Plan,TSB,2019,8,201908,Non Weather,Attritional,446203,178,44801
+Plan,TSB,2019,9,201909,Non Weather,Attritional,447509,179,45158
+Plan,TSB,2019,10,201910,Non Weather,Attritional,453382,181,45463
+Plan,TSB,2019,11,201911,Non Weather,Attritional,453744,181,45595
+Plan,TSB,2019,12,201912,Non Weather,Attritional,458000,183,45828
+Plan,TSB,2018,7,201807,Non Weather,Large,461024,184,46052
+Plan,TSB,2018,8,201808,Non Weather,Large,467547,187,46785
+Plan,TSB,2018,9,201809,Non Weather,Large,423136,169,42194
+Plan,TSB,2018,10,201810,Non Weather,Large,421713,169,42195
+Plan,TSB,2018,11,201811,Non Weather,Large,423620,169,42535
+Plan,TSB,2018,12,201812,Non Weather,Large,430173,172,42819
+Plan,TSB,2019,1,201901,Non Weather,Large,432687,173,43007
+Plan,TSB,2019,2,201902,Non Weather,Large,434812,174,43620
+Plan,TSB,2019,3,201903,Non Weather,Large,435467,174,43675
+Plan,TSB,2019,4,201904,Non Weather,Large,439066,176,44182
+Plan,TSB,2019,5,201905,Non Weather,Large,438165,175,43973
+Plan,TSB,2019,6,201906,Non Weather,Large,440802,176,44178
+Plan,TSB,2019,7,201907,Non Weather,Large,445073,178,44698
+Plan,TSB,2019,8,201908,Non Weather,Large,446483,179,44864
+Plan,TSB,2019,9,201909,Non Weather,Large,450270,180,44930
+Plan,TSB,2019,10,201910,Non Weather,Large,453750,182,45088
+Plan,TSB,2019,11,201911,Non Weather,Large,454749,182,45629
+Plan,TSB,2019,12,201912,Non Weather,Large,456568,183,46050
+Plan V2,TSB,2018,9,201809,Non Weather,Attritional,643883,258,64376
+Plan V2,TSB,2018,10,201810,Non Weather,Attritional,636407,255,63739
+Plan V2,TSB,2018,11,201811,Non Weather,Attritional,640639,256,64348
+Plan V2,TSB,2018,12,201812,Non Weather,Attritional,650732,260,64970
+Plan V2,TSB,2019,1,201901,Non Weather,Attritional,655455,262,65595
+Plan V2,TSB,2019,2,201902,Non Weather,Attritional,654525,262,65707
+Plan V2,TSB,2019,3,201903,Non Weather,Attritional,661014,264,66112
+Plan V2,TSB,2019,4,201904,Non Weather,Attritional,660020,264,66020
+Plan V2,TSB,2019,5,201905,Non Weather,Attritional,668915,268,66457
+Plan V2,TSB,2019,6,201906,Non Weather,Attritional,669199,268,67092
+Plan V2,TSB,2019,7,201907,Non Weather,Attritional,675176,270,67218
+Plan V2,TSB,2019,8,201908,Non Weather,Attritional,672782,269,67796
+Plan V2,TSB,2019,9,201909,Non Weather,Attritional,673494,269,67853
+Plan V2,TSB,2019,10,201910,Non Weather,Attritional,683252,273,68221
+Plan V2,TSB,2019,11,201911,Non Weather,Attritional,689393,276,68804
+Plan V2,TSB,2019,12,201912,Non Weather,Attritional,693051,277,69343
+Plan V2,TSB,2018,9,201809,Non Weather,Large,643401,257,64210
+Plan V2,TSB,2018,10,201810,Non Weather,Large,639498,256,63862
+Plan V2,TSB,2018,11,201811,Non Weather,Large,640562,256,63817
+Plan V2,TSB,2018,12,201812,Non Weather,Large,646493,259,64746
+Plan V2,TSB,2019,1,201901,Non Weather,Large,654507,262,65291
+Plan V2,TSB,2019,2,201902,Non Weather,Large,654685,262,65901
+Plan V2,TSB,2019,3,201903,Non Weather,Large,663698,265,66207
+Plan V2,TSB,2019,4,201904,Non Weather,Large,663813,266,66135
+Plan V2,TSB,2019,5,201905,Non Weather,Large,664953,266,66898
+Plan V2,TSB,2019,6,201906,Non Weather,Large,670306,268,66468
+Plan V2,TSB,2019,7,201907,Non Weather,Large,673194,269,67261
+Plan V2,TSB,2019,8,201908,Non Weather,Large,675892,270,67273
+Plan V2,TSB,2019,9,201909,Non Weather,Large,676407,271,67429
+Plan V2,TSB,2019,10,201910,Non Weather,Large,681331,273,67996
+Plan V2,TSB,2019,11,201911,Non Weather,Large,688444,275,68686
+Plan V2,TSB,2019,12,201912,Non Weather,Large,689069,276,69055
+Actual,UKDI,2016,1,201601,Non Weather,Attritional,9046452,3619,908338
+Actual,UKDI,2016,2,201602,Non Weather,Attritional,9195674,3678,920185
+Actual,UKDI,2016,3,201603,Non Weather,Attritional,9221682,3689,925775
+Actual,UKDI,2016,4,201604,Non Weather,Attritional,9263824,3706,931093
+Actual,UKDI,2016,5,201605,Non Weather,Attritional,9337358,3735,931589
+Actual,UKDI,2016,6,201606,Non Weather,Attritional,9420513,3768,942315
+Actual,UKDI,2016,7,201607,Non Weather,Attritional,9577661,3831,953791
+Actual,UKDI,2016,8,201608,Non Weather,Attritional,9505877,3802,948294
+Actual,UKDI,2016,9,201609,Non Weather,Attritional,9605062,3842,958386
+Actual,UKDI,2016,10,201610,Non Weather,Attritional,9579119,3832,962611
+Actual,UKDI,2016,11,201611,Non Weather,Attritional,9701629,3881,968517
+Actual,UKDI,2016,12,201612,Non Weather,Attritional,9693667,3877,962589
+Actual,UKDI,2017,1,201701,Non Weather,Attritional,9764864,3906,974664
+Actual,UKDI,2017,2,201702,Non Weather,Attritional,9715566,3886,971306
+Actual,UKDI,2017,3,201703,Non Weather,Attritional,9828505,3931,973293
+Actual,UKDI,2017,4,201704,Non Weather,Attritional,9826630,3931,988118
+Actual,UKDI,2017,5,201705,Non Weather,Attritional,9915340,3966,993311
+Actual,UKDI,2017,6,201706,Non Weather,Attritional,10040946,4016,1000629
+Actual,UKDI,2017,7,201707,Non Weather,Attritional,10025980,4010,998481
+Actual,UKDI,2017,8,201708,Non Weather,Attritional,9965565,3986,993207
+Actual,UKDI,2017,9,201709,Non Weather,Attritional,10040946,4016,1002025
+Actual,UKDI,2017,10,201710,Non Weather,Attritional,10003265,4001,1005965
+Actual,UKDI,2017,11,201711,Non Weather,Attritional,9996389,3999,1000913
+Actual,UKDI,2017,12,201712,Non Weather,Attritional,10182770,4073,1016959
+Actual,UKDI,2018,1,201801,Non Weather,Attritional,10223509,4089,1026215
+Actual,UKDI,2018,2,201802,Non Weather,Attritional,10285059,4114,1031179
+Actual,UKDI,2018,3,201803,Non Weather,Attritional,10400632,4160,1036085
+Actual,UKDI,2018,4,201804,Non Weather,Attritional,10445655,4178,1052301
+Actual,UKDI,2018,5,201805,Non Weather,Attritional,10557902,4223,1054267
+Actual,UKDI,2018,6,201806,Non Weather,Attritional,10544493,4218,1053931
+Actual,UKDI,2018,7,201807,Non Weather,Attritional,10663070,4265,1064463
+Actual,UKDI,2018,8,201808,Non Weather,Attritional,10608446,4243,1063106
+Actual,UKDI,2018,9,201809,Non Weather,Attritional,11945712,4778,1199230
+Actual,UKDI,2018,10,201810,Non Weather,Attritional,12084396,4834,1210519
+Actual,UKDI,2018,11,201811,Non Weather,Attritional,12188008,4875,1216906
+Actual,UKDI,2018,12,201812,Non Weather,Attritional,12177050,4871,1216788
+Actual,UKDI,2016,2,201602,Non Weather,Large,9197568,3679,922421
+Actual,UKDI,2016,3,201603,Non Weather,Large,9183935,3674,921463
+Actual,UKDI,2016,6,201606,Non Weather,Large,9453309,3781,939410
+Actual,UKDI,2016,7,201607,Non Weather,Large,9493129,3797,955628
+Actual,UKDI,2016,8,201608,Non Weather,Large,9508173,3803,951565
+Actual,UKDI,2016,9,201609,Non Weather,Large,9578134,3831,951242
+Actual,UKDI,2016,10,201610,Non Weather,Large,9569233,3828,954333
+Actual,UKDI,2016,12,201612,Non Weather,Large,9705831,3882,966698
+Actual,UKDI,2017,1,201701,Non Weather,Large,9758648,3903,977663
+Actual,UKDI,2017,2,201702,Non Weather,Large,9805058,3922,978059
+Actual,UKDI,2017,3,201703,Non Weather,Large,9773670,3909,977724
+Actual,UKDI,2017,4,201704,Non Weather,Large,9881686,3953,990384
+Actual,UKDI,2017,6,201706,Non Weather,Large,10012622,4005,998602
+Actual,UKDI,2017,7,201707,Non Weather,Large,10008664,4003,994370
+Actual,UKDI,2017,9,201709,Non Weather,Large,9993003,3997,1002311
+Actual,UKDI,2017,11,201711,Non Weather,Large,10040209,4016,1000694
+Actual,UKDI,2017,12,201712,Non Weather,Large,10157574,4063,1022028
+Actual,UKDI,2018,2,201802,Non Weather,Large,10307160,4123,1032042
+Actual,UKDI,2018,3,201803,Non Weather,Large,10351909,4141,1036959
+Actual,UKDI,2018,4,201804,Non Weather,Large,10450640,4180,1053307
+Actual,UKDI,2018,5,201805,Non Weather,Large,10506383,4203,1050061
+Actual,UKDI,2018,7,201807,Non Weather,Large,10633471,4253,1058588
+Actual,UKDI,2018,9,201809,Non Weather,Large,11914326,4766,1193663
+Actual,UKDI,2018,10,201810,Non Weather,Large,12098516,4839,1206542
+Actual,UKDI,2018,12,201812,Non Weather,Large,12155784,4862,1223556
+Plan,UKDI,2018,7,201807,Non Weather,Attritional,15182415,6073,1525018
+Plan,UKDI,2018,8,201808,Non Weather,Attritional,15368289,6147,1538876
+Plan,UKDI,2018,9,201809,Non Weather,Attritional,15806200,6322,1582324
+Plan,UKDI,2018,10,201810,Non Weather,Attritional,15871929,6349,1587776
+Plan,UKDI,2018,11,201811,Non Weather,Attritional,15969389,6388,1594180
+Plan,UKDI,2018,12,201812,Non Weather,Attritional,16182287,6473,1626166
+Plan,UKDI,2019,1,201901,Non Weather,Attritional,16223803,6490,1632563
+Plan,UKDI,2019,2,201902,Non Weather,Attritional,16307501,6523,1633351
+Plan,UKDI,2019,3,201903,Non Weather,Attritional,16457800,6583,1642552
+Plan,UKDI,2019,4,201904,Non Weather,Attritional,16485156,6594,1661074
+Plan,UKDI,2019,5,201905,Non Weather,Attritional,16790631,6716,1686319
+Plan,UKDI,2019,6,201906,Non Weather,Attritional,16861438,6745,1688532
+Plan,UKDI,2019,7,201907,Non Weather,Attritional,17063617,6825,1716129
+Plan,UKDI,2019,8,201908,Non Weather,Attritional,17209742,6884,1708818
+Plan,UKDI,2019,9,201909,Non Weather,Attritional,17114371,6846,1713926
+Plan,UKDI,2019,10,201910,Non Weather,Attritional,17140194,6856,1710749
+Plan,UKDI,2019,11,201911,Non Weather,Attritional,17290242,6916,1731468
+Plan,UKDI,2019,12,201912,Non Weather,Attritional,17305068,6922,1720042
+Plan,UKDI,2018,7,201807,Non Weather,Large,15188436,6075,1525975
+Plan,UKDI,2018,8,201808,Non Weather,Large,15282645,6113,1536033
+Plan,UKDI,2018,9,201809,Non Weather,Large,15721097,6288,1582631
+Plan,UKDI,2018,10,201810,Non Weather,Large,15813201,6325,1588284
+Plan,UKDI,2018,11,201811,Non Weather,Large,16045904,6418,1602727
+Plan,UKDI,2018,12,201812,Non Weather,Large,16222687,6489,1622368
+Plan,UKDI,2019,1,201901,Non Weather,Large,16331238,6532,1627509
+Plan,UKDI,2019,2,201902,Non Weather,Large,16347837,6539,1627692
+Plan,UKDI,2019,3,201903,Non Weather,Large,16518444,6607,1649836
+Plan,UKDI,2019,4,201904,Non Weather,Large,16519506,6608,1662758
+Plan,UKDI,2019,5,201905,Non Weather,Large,16779094,6712,1682350
+Plan,UKDI,2019,6,201906,Non Weather,Large,16938783,6776,1694004
+Plan,UKDI,2019,7,201907,Non Weather,Large,17113931,6846,1717130
+Plan,UKDI,2019,8,201908,Non Weather,Large,17176976,6871,1718985
+Plan,UKDI,2019,9,201909,Non Weather,Large,17213777,6886,1711835
+Plan,UKDI,2019,10,201910,Non Weather,Large,17094497,6838,1721382
+Plan,UKDI,2019,11,201911,Non Weather,Large,17336839,6935,1727396
+Plan,UKDI,2019,12,201912,Non Weather,Large,17279923,6912,1720658
+Plan V2,UKDI,2018,9,201809,Non Weather,Attritional,11626743,4651,1161773
+Plan V2,UKDI,2018,10,201810,Non Weather,Attritional,11663516,4665,1171154
+Plan V2,UKDI,2018,11,201811,Non Weather,Attritional,11794927,4718,1177381
+Plan V2,UKDI,2018,12,201812,Non Weather,Attritional,11953835,4782,1188638
+Plan V2,UKDI,2019,1,201901,Non Weather,Attritional,12054212,4822,1200197
+Plan V2,UKDI,2019,2,201902,Non Weather,Attritional,11952718,4781,1199411
+Plan V2,UKDI,2019,3,201903,Non Weather,Attritional,11990149,4796,1205615
+Plan V2,UKDI,2019,4,201904,Non Weather,Attritional,12213846,4886,1222440
+Plan V2,UKDI,2019,5,201905,Non Weather,Attritional,12323036,4929,1232823
+Plan V2,UKDI,2019,6,201906,Non Weather,Attritional,12365752,4946,1238088
+Plan V2,UKDI,2019,7,201907,Non Weather,Attritional,12489741,4996,1249300
+Plan V2,UKDI,2019,8,201908,Non Weather,Attritional,12542525,5017,1247392
+Plan V2,UKDI,2019,9,201909,Non Weather,Attritional,12596953,5039,1261425
+Plan V2,UKDI,2019,10,201910,Non Weather,Attritional,12640677,5056,1266545
+Plan V2,UKDI,2019,11,201911,Non Weather,Attritional,12784376,5114,1271137
+Plan V2,UKDI,2019,12,201912,Non Weather,Attritional,12776260,5111,1268831
+Plan V2,UKDI,2018,9,201809,Non Weather,Large,11573702,4629,1162199
+Plan V2,UKDI,2018,10,201810,Non Weather,Large,11615383,4646,1162899
+Plan V2,UKDI,2018,11,201811,Non Weather,Large,11772812,4709,1178604
+Plan V2,UKDI,2018,12,201812,Non Weather,Large,11955339,4782,1190424
+Plan V2,UKDI,2019,1,201901,Non Weather,Large,11975455,4790,1205771
+Plan V2,UKDI,2019,2,201902,Non Weather,Large,11939425,4776,1198466
+Plan V2,UKDI,2019,3,201903,Non Weather,Large,12006983,4803,1206361
+Plan V2,UKDI,2019,4,201904,Non Weather,Large,12176405,4871,1215859
+Plan V2,UKDI,2019,5,201905,Non Weather,Large,12289319,4916,1234545
+Plan V2,UKDI,2019,6,201906,Non Weather,Large,12399990,4960,1240943
+Plan V2,UKDI,2019,7,201907,Non Weather,Large,12442845,4977,1238082
+Plan V2,UKDI,2019,8,201908,Non Weather,Large,12465767,4986,1254367
+Plan V2,UKDI,2019,9,201909,Non Weather,Large,12555160,5022,1262043
+Plan V2,UKDI,2019,10,201910,Non Weather,Large,12588361,5035,1259709
+Plan V2,UKDI,2019,11,201911,Non Weather,Large,12802584,5121,1270652
+Plan V2,UKDI,2019,12,201912,Non Weather,Large,12729352,5092,1278651
+Actual,Aggregators,2016,1,201601,Weather,Attritional,3014009,1206,302720
+Actual,Aggregators,2016,2,201602,Weather,Attritional,3042231,1217,303646
+Actual,Aggregators,2016,3,201603,Weather,Attritional,3040440,1216,302723
+Actual,Aggregators,2016,4,201604,Weather,Attritional,3069496,1228,306151
+Actual,Aggregators,2016,5,201605,Weather,Attritional,3124184,1250,312307
+Actual,Aggregators,2016,6,201606,Weather,Attritional,3162055,1265,316101
+Actual,Aggregators,2016,7,201607,Weather,Attritional,3206933,1283,319858
+Actual,Aggregators,2016,8,201608,Weather,Attritional,3243034,1297,322605
+Actual,Aggregators,2016,9,201609,Weather,Attritional,3260507,1304,328151
+Actual,Aggregators,2016,10,201610,Weather,Attritional,3300185,1320,328524
+Actual,Aggregators,2016,11,201611,Weather,Attritional,3340032,1336,334477
+Actual,Aggregators,2016,12,201612,Weather,Attritional,3390459,1356,339651
+Actual,Aggregators,2017,1,201701,Weather,Attritional,3425925,1370,343833
+Actual,Aggregators,2017,2,201702,Weather,Attritional,3475552,1390,347597
+Actual,Aggregators,2017,3,201703,Weather,Attritional,3505762,1402,352686
+Actual,Aggregators,2017,4,201704,Weather,Attritional,3567251,1427,357961
+Actual,Aggregators,2017,5,201705,Weather,Attritional,3575748,1430,359927
+Actual,Aggregators,2017,6,201706,Weather,Attritional,3655107,1462,363874
+Actual,Aggregators,2017,7,201707,Weather,Attritional,3673924,1470,370294
+Actual,Aggregators,2017,8,201708,Weather,Attritional,3737261,1495,374247
+Actual,Aggregators,2017,9,201709,Weather,Attritional,3778363,1511,377381
+Actual,Aggregators,2017,10,201710,Weather,Attritional,3806559,1523,380614
+Actual,Aggregators,2017,11,201711,Weather,Attritional,3821449,1529,383796
+Actual,Aggregators,2017,12,201712,Weather,Attritional,3830675,1532,382715
+Actual,Aggregators,2018,1,201801,Weather,Attritional,3883491,1553,388471
+Actual,Aggregators,2018,2,201802,Weather,Attritional,3918785,1568,393001
+Actual,Aggregators,2018,3,201803,Weather,Attritional,3936474,1575,394149
+Actual,Aggregators,2018,4,201804,Weather,Attritional,3931764,1573,396547
+Actual,Aggregators,2018,5,201805,Weather,Attritional,3985654,1594,398898
+Actual,Aggregators,2018,6,201806,Weather,Attritional,4060332,1624,403781
+Actual,Aggregators,2018,7,201807,Weather,Attritional,4085092,1634,407718
+Actual,Aggregators,2018,8,201808,Weather,Attritional,4124337,1650,414222
+Actual,Aggregators,2018,9,201809,Weather,Attritional,3288682,1315,327883
+Actual,Aggregators,2018,10,201810,Weather,Attritional,3313437,1325,331471
+Actual,Aggregators,2018,11,201811,Weather,Attritional,3339817,1336,334828
+Actual,Aggregators,2018,12,201812,Weather,Attritional,3382939,1353,337208
+Actual,Aggregators,2018,3,201803,Weather,Large,3960149,1584,395307
+Plan,Aggregators,2018,7,201807,Weather,Attritional,4126255,1651,414307
+Plan,Aggregators,2018,8,201808,Weather,Attritional,4128297,1651,414360
+Plan,Aggregators,2018,9,201809,Weather,Attritional,5377634,2151,536509
+Plan,Aggregators,2018,10,201810,Weather,Attritional,5445313,2178,548700
+Plan,Aggregators,2018,11,201811,Weather,Attritional,5545363,2218,550708
+Plan,Aggregators,2018,12,201812,Weather,Attritional,5596779,2239,563266
+Plan,Aggregators,2019,1,201901,Weather,Attritional,5671090,2268,565782
+Plan,Aggregators,2019,2,201902,Weather,Attritional,5664445,2266,565652
+Plan,Aggregators,2019,3,201903,Weather,Attritional,5745987,2298,574034
+Plan,Aggregators,2019,4,201904,Weather,Attritional,5700600,2280,571958
+Plan,Aggregators,2019,5,201905,Weather,Attritional,5764365,2306,575864
+Plan,Aggregators,2019,6,201906,Weather,Attritional,5806070,2322,580777
+Plan,Aggregators,2019,7,201907,Weather,Attritional,5798213,2319,580743
+Plan,Aggregators,2019,8,201908,Weather,Attritional,5768135,2307,576806
+Plan,Aggregators,2019,9,201909,Weather,Attritional,5827344,2331,582422
+Plan,Aggregators,2019,10,201910,Weather,Attritional,5942133,2377,594189
+Plan,Aggregators,2019,11,201911,Weather,Attritional,5970664,2388,596531
+Plan,Aggregators,2019,12,201912,Weather,Attritional,5980516,2392,602104
+Plan V2,Aggregators,2018,9,201809,Weather,Attritional,4903326,1961,488208
+Plan V2,Aggregators,2018,10,201810,Weather,Attritional,4895629,1958,493712
+Plan V2,Aggregators,2018,11,201811,Weather,Attritional,4973617,1989,494869
+Plan V2,Aggregators,2018,12,201812,Weather,Attritional,4957947,1983,497331
+Plan V2,Aggregators,2019,1,201901,Weather,Attritional,4962700,1985,495258
+Plan V2,Aggregators,2019,2,201902,Weather,Attritional,4956666,1983,497235
+Plan V2,Aggregators,2019,3,201903,Weather,Attritional,4978135,1991,497254
+Plan V2,Aggregators,2019,4,201904,Weather,Attritional,4976117,1990,499870
+Plan V2,Aggregators,2019,5,201905,Weather,Attritional,5004506,2002,499214
+Plan V2,Aggregators,2019,6,201906,Weather,Attritional,5048475,2019,503544
+Plan V2,Aggregators,2019,7,201907,Weather,Attritional,5042926,2017,501168
+Plan V2,Aggregators,2019,8,201908,Weather,Attritional,5042718,2017,505331
+Plan V2,Aggregators,2019,9,201909,Weather,Attritional,5012036,2005,502174
+Plan V2,Aggregators,2019,10,201910,Weather,Attritional,5040199,2016,505222
+Plan V2,Aggregators,2019,11,201911,Weather,Attritional,5005510,2002,501449
+Plan V2,Aggregators,2019,12,201912,Weather,Attritional,5105803,2042,508565
+Actual,Barclays,2016,1,201601,Weather,Attritional,7439873,2976,741263
+Actual,Barclays,2016,2,201602,Weather,Attritional,7569901,3028,757483
+Actual,Barclays,2016,3,201603,Weather,Attritional,7626872,3051,762028
+Actual,Barclays,2016,4,201604,Weather,Attritional,7813039,3125,775315
+Actual,Barclays,2016,5,201605,Weather,Attritional,7975426,3190,791798
+Actual,Barclays,2016,6,201606,Weather,Attritional,8125128,3250,812028
+Actual,Barclays,2016,7,201607,Weather,Attritional,8335199,3334,830008
+Actual,Barclays,2016,8,201608,Weather,Attritional,8443882,3378,847033
+Actual,Barclays,2016,9,201609,Weather,Attritional,8640411,3456,863009
+Actual,Barclays,2016,10,201610,Weather,Attritional,8761797,3505,876102
+Actual,Barclays,2016,11,201611,Weather,Attritional,8942999,3577,891284
+Actual,Barclays,2016,12,201612,Weather,Attritional,9137000,3655,912984
+Actual,Barclays,2017,1,201701,Weather,Attritional,9244051,3698,925826
+Actual,Barclays,2017,2,201702,Weather,Attritional,9444804,3778,946490
+Actual,Barclays,2017,3,201703,Weather,Attritional,9706179,3882,970525
+Actual,Barclays,2017,4,201704,Weather,Attritional,9865695,3946,978693
+Actual,Barclays,2017,5,201705,Weather,Attritional,9992600,3997,991373
+Actual,Barclays,2017,6,201706,Weather,Attritional,10193161,4077,1012898
+Actual,Barclays,2017,7,201707,Weather,Attritional,10371580,4149,1032431
+Actual,Barclays,2017,8,201708,Weather,Attritional,10555736,4222,1053419
+Actual,Barclays,2017,9,201709,Weather,Attritional,10733298,4293,1073070
+Actual,Barclays,2017,10,201710,Weather,Attritional,10918921,4368,1099752
+Actual,Barclays,2017,11,201711,Weather,Attritional,11189435,4476,1120066
+Actual,Barclays,2017,12,201712,Weather,Attritional,11367500,4547,1135588
+Actual,Barclays,2018,1,201801,Weather,Attritional,11601790,4641,1162654
+Actual,Barclays,2018,2,201802,Weather,Attritional,11804419,4722,1179909
+Actual,Barclays,2018,3,201803,Weather,Attritional,12088741,4835,1217116
+Actual,Barclays,2018,4,201804,Weather,Attritional,12437025,4975,1236360
+Actual,Barclays,2018,5,201805,Weather,Attritional,12620270,5048,1262102
+Actual,Barclays,2018,6,201806,Weather,Attritional,12847888,5139,1292701
+Actual,Barclays,2018,7,201807,Weather,Attritional,13043673,5217,1309785
+Actual,Barclays,2018,8,201808,Weather,Attritional,13364411,5346,1327800
+Actual,Barclays,2018,9,201809,Weather,Attritional,11844168,4738,1183394
+Actual,Barclays,2018,10,201810,Weather,Attritional,12083449,4833,1203836
+Actual,Barclays,2018,11,201811,Weather,Attritional,12242792,4897,1230678
+Actual,Barclays,2018,12,201812,Weather,Attritional,12597669,5039,1265341
+Actual,Barclays,2016,2,201602,Weather,Large,7521408,3009,755458
+Actual,Barclays,2016,7,201607,Weather,Large,8313548,3325,831333
+Actual,Barclays,2017,11,201711,Weather,Large,11229854,4492,1114150
+Actual,Barclays,2018,3,201803,Weather,Large,12104501,4842,1209872
+Actual,Barclays,2018,7,201807,Weather,Large,13087693,5235,1304728
+Plan,Barclays,2018,7,201807,Weather,Attritional,13612828,5445,1359185
+Plan,Barclays,2018,8,201808,Weather,Attritional,13831147,5532,1376173
+Plan,Barclays,2018,9,201809,Weather,Attritional,12662947,5065,1269583
+Plan,Barclays,2018,10,201810,Weather,Attritional,12879159,5152,1297167
+Plan,Barclays,2018,11,201811,Weather,Attritional,13225432,5290,1321929
+Plan,Barclays,2018,12,201812,Weather,Attritional,13431682,5373,1343928
+Plan,Barclays,2019,1,201901,Weather,Attritional,13923809,5570,1391948
+Plan,Barclays,2019,2,201902,Weather,Attritional,14263185,5705,1417596
+Plan,Barclays,2019,3,201903,Weather,Attritional,13562434,5425,1357552
+Plan,Barclays,2019,4,201904,Weather,Attritional,13724405,5490,1372656
+Plan,Barclays,2019,5,201905,Weather,Attritional,13733466,5493,1373046
+Plan,Barclays,2019,6,201906,Weather,Attritional,13851031,5540,1376655
+Plan,Barclays,2019,7,201907,Weather,Attritional,13675762,5470,1374959
+Plan,Barclays,2019,8,201908,Weather,Attritional,13872410,5549,1385221
+Plan,Barclays,2019,9,201909,Weather,Attritional,14195908,5678,1417771
+Plan,Barclays,2019,10,201910,Weather,Attritional,14633088,5853,1463232
+Plan,Barclays,2019,11,201911,Weather,Attritional,14567313,5827,1458340
+Plan,Barclays,2019,12,201912,Weather,Attritional,14090170,5636,1417194
+Plan V2,Barclays,2018,9,201809,Weather,Attritional,11893341,4757,1194908
+Plan V2,Barclays,2018,10,201810,Weather,Attritional,12136562,4855,1219627
+Plan V2,Barclays,2018,11,201811,Weather,Attritional,12292584,4917,1231745
+Plan V2,Barclays,2018,12,201812,Weather,Attritional,12574448,5030,1248411
+Plan V2,Barclays,2019,1,201901,Weather,Attritional,12697353,5079,1257849
+Plan V2,Barclays,2019,2,201902,Weather,Attritional,12672932,5069,1269305
+Plan V2,Barclays,2019,3,201903,Weather,Attritional,12575853,5030,1262238
+Plan V2,Barclays,2019,4,201904,Weather,Attritional,12760121,5104,1274899
+Plan V2,Barclays,2019,5,201905,Weather,Attritional,12753927,5102,1264162
+Plan V2,Barclays,2019,6,201906,Weather,Attritional,12769959,5108,1268275
+Plan V2,Barclays,2019,7,201907,Weather,Attritional,12752429,5101,1275747
+Plan V2,Barclays,2019,8,201908,Weather,Attritional,12845350,5138,1290912
+Plan V2,Barclays,2019,9,201909,Weather,Attritional,13024625,5210,1303716
+Plan V2,Barclays,2019,10,201910,Weather,Attritional,13067706,5227,1303274
+Plan V2,Barclays,2019,11,201911,Weather,Attritional,13146705,5259,1309470
+Plan V2,Barclays,2019,12,201912,Weather,Attritional,13098396,5239,1314468
+Actual,HSBC,2016,1,201601,Weather,Attritional,3757115,1503,372941
+Actual,HSBC,2016,2,201602,Weather,Attritional,3685350,1474,367165
+Actual,HSBC,2016,3,201603,Weather,Attritional,3652916,1461,367362
+Actual,HSBC,2016,4,201604,Weather,Attritional,3632988,1453,362223
+Actual,HSBC,2016,5,201605,Weather,Attritional,3603674,1441,358534
+Actual,HSBC,2016,6,201606,Weather,Attritional,3535381,1414,355018
+Actual,HSBC,2016,7,201607,Weather,Attritional,3479588,1392,346667
+Actual,HSBC,2016,8,201608,Weather,Attritional,3463011,1385,343915
+Actual,HSBC,2016,9,201609,Weather,Attritional,3421143,1368,341966
+Actual,HSBC,2016,10,201610,Weather,Attritional,3375714,1350,337803
+Actual,HSBC,2016,11,201611,Weather,Attritional,3359176,1344,333675
+Actual,HSBC,2016,12,201612,Weather,Attritional,3298265,1319,328961
+Actual,HSBC,2017,1,201701,Weather,Attritional,3271828,1309,327936
+Actual,HSBC,2017,2,201702,Weather,Attritional,3210299,1284,322452
+Actual,HSBC,2017,3,201703,Weather,Attritional,3175781,1270,316015
+Actual,HSBC,2017,4,201704,Weather,Attritional,3119577,1248,310885
+Actual,HSBC,2017,5,201705,Weather,Attritional,3109611,1244,308940
+Actual,HSBC,2017,6,201706,Weather,Attritional,3077797,1231,308678
+Actual,HSBC,2017,7,201707,Weather,Attritional,3059532,1224,304958
+Actual,HSBC,2017,8,201708,Weather,Attritional,3012745,1205,301896
+Actual,HSBC,2017,9,201709,Weather,Attritional,2957111,1183,296220
+Actual,HSBC,2017,10,201710,Weather,Attritional,2936864,1175,293436
+Actual,HSBC,2017,11,201711,Weather,Attritional,2918728,1167,292917
+Actual,HSBC,2017,12,201712,Weather,Attritional,2919011,1168,292120
+Actual,HSBC,2018,1,201801,Weather,Attritional,2884573,1154,288901
+Actual,HSBC,2018,2,201802,Weather,Attritional,2844718,1138,286482
+Actual,HSBC,2018,3,201803,Weather,Attritional,2814882,1126,281772
+Actual,HSBC,2018,4,201804,Weather,Attritional,2778801,1112,278068
+Actual,HSBC,2018,5,201805,Weather,Attritional,2755356,1102,274442
+Actual,HSBC,2018,6,201806,Weather,Attritional,2715425,1086,272484
+Actual,HSBC,2018,7,201807,Weather,Attritional,2678324,1071,267234
+Actual,HSBC,2018,8,201808,Weather,Attritional,2651413,1061,264100
+Actual,HSBC,2018,9,201809,Weather,Attritional,3943582,1577,394881
+Actual,HSBC,2018,10,201810,Weather,Attritional,3944523,1578,392367
+Actual,HSBC,2018,11,201811,Weather,Attritional,3882562,1553,388296
+Actual,HSBC,2018,12,201812,Weather,Attritional,3828935,1532,382364
+Plan,HSBC,2018,7,201807,Weather,Attritional,7164265,2866,716345
+Plan,HSBC,2018,8,201808,Weather,Attritional,7067731,2827,704197
+Plan,HSBC,2018,9,201809,Weather,Attritional,6590438,2636,662354
+Plan,HSBC,2018,10,201810,Weather,Attritional,6807351,2723,682612
+Plan,HSBC,2018,11,201811,Weather,Attritional,6701528,2681,667402
+Plan,HSBC,2018,12,201812,Weather,Attritional,6734662,2694,669753
+Plan,HSBC,2019,1,201901,Weather,Attritional,6741086,2696,674266
+Plan,HSBC,2019,2,201902,Weather,Attritional,6708308,2683,671068
+Plan,HSBC,2019,3,201903,Weather,Attritional,6761897,2705,678018
+Plan,HSBC,2019,4,201904,Weather,Attritional,6760768,2704,681243
+Plan,HSBC,2019,5,201905,Weather,Attritional,6745665,2698,673300
+Plan,HSBC,2019,6,201906,Weather,Attritional,6765546,2706,676132
+Plan,HSBC,2019,7,201907,Weather,Attritional,6675036,2670,669889
+Plan,HSBC,2019,8,201908,Weather,Attritional,6693376,2677,675783
+Plan,HSBC,2019,9,201909,Weather,Attritional,6699428,2680,672680
+Plan,HSBC,2019,10,201910,Weather,Attritional,6632031,2653,662880
+Plan,HSBC,2019,11,201911,Weather,Attritional,6614385,2646,662408
+Plan,HSBC,2019,12,201912,Weather,Attritional,6674813,2670,665288
+Plan V2,HSBC,2018,9,201809,Weather,Attritional,3394530,1358,341117
+Plan V2,HSBC,2018,10,201810,Weather,Attritional,3379601,1352,341130
+Plan V2,HSBC,2018,11,201811,Weather,Attritional,3364733,1346,333870
+Plan V2,HSBC,2018,12,201812,Weather,Attritional,3326602,1331,333309
+Plan V2,HSBC,2019,1,201901,Weather,Attritional,3348422,1339,333595
+Plan V2,HSBC,2019,2,201902,Weather,Attritional,3340805,1336,335078
+Plan V2,HSBC,2019,3,201903,Weather,Attritional,3412542,1365,339280
+Plan V2,HSBC,2019,4,201904,Weather,Attritional,3440685,1376,342134
+Plan V2,HSBC,2019,5,201905,Weather,Attritional,3434012,1374,344906
+Plan V2,HSBC,2019,6,201906,Weather,Attritional,3446989,1379,342672
+Plan V2,HSBC,2019,7,201907,Weather,Attritional,3490695,1396,346913
+Plan V2,HSBC,2019,8,201908,Weather,Attritional,3454259,1382,344357
+Plan V2,HSBC,2019,9,201909,Weather,Attritional,3480030,1392,347845
+Plan V2,HSBC,2019,10,201910,Weather,Attritional,3507267,1403,349494
+Plan V2,HSBC,2019,11,201911,Weather,Attritional,3541679,1417,353053
+Plan V2,HSBC,2019,12,201912,Weather,Attritional,3555539,1422,354755
+Actual,IB APC,2016,12,201612,Weather,Attritional,10504282,4202,1045172
+Actual,IB APC,2017,1,201701,Weather,Attritional,10569814,4228,1056711
+Actual,IB APC,2017,2,201702,Weather,Attritional,10505441,4202,1045961
+Actual,IB APC,2017,3,201703,Weather,Attritional,10570438,4228,1062416
+Actual,IB APC,2017,5,201705,Weather,Attritional,10715181,4286,1071178
+Actual,IB APC,2017,6,201706,Weather,Attritional,10793409,4317,1085255
+Actual,IB APC,2017,7,201707,Weather,Attritional,10874585,4350,1087268
+Actual,IB APC,2017,8,201708,Weather,Attritional,10900944,4360,1090020
+Actual,IB APC,2017,9,201709,Weather,Attritional,10838943,4336,1085588
+Actual,IB APC,2017,10,201710,Weather,Attritional,10936064,4374,1098032
+Actual,IB APC,2017,11,201711,Weather,Attritional,11064159,4426,1111837
+Actual,IB APC,2017,12,201712,Weather,Attritional,11104182,4442,1110113
+Actual,IB APC,2018,1,201801,Weather,Attritional,11080703,4432,1106458
+Actual,IB APC,2018,2,201802,Weather,Attritional,11277590,4511,1123794
+Actual,IB APC,2018,3,201803,Weather,Attritional,11300195,4520,1135926
+Actual,IB APC,2018,4,201804,Weather,Attritional,11350519,4540,1130292
+Actual,IB APC,2018,5,201805,Weather,Attritional,11474670,4590,1148535
+Actual,IB APC,2018,6,201806,Weather,Attritional,11415456,4566,1134495
+Actual,IB APC,2018,7,201807,Weather,Attritional,11578378,4631,1159765
+Actual,IB APC,2018,8,201808,Weather,Attritional,11561877,4625,1152878
+Actual,IB APC,2018,9,201809,Weather,Attritional,11293052,4517,1128031
+Actual,IB APC,2018,10,201810,Weather,Attritional,11238632,4495,1126604
+Actual,IB APC,2018,11,201811,Weather,Attritional,11369003,4548,1127139
+Actual,IB APC,2018,12,201812,Weather,Attritional,11383609,4553,1136056
+Actual,IB APC,2018,1,201801,Weather,Large,11100568,4440,1112328
+Actual,IB APC,2018,3,201803,Weather,Large,11336095,4534,1127875
+Actual,IB APC,2018,6,201806,Weather,Large,11381130,4552,1141675
+Plan,IB APC,2018,7,201807,Weather,Attritional,8344933,3338,834049
+Plan,IB APC,2018,8,201808,Weather,Attritional,8345339,3338,841538
+Plan,IB APC,2018,9,201809,Weather,Attritional,6956546,2783,699424
+Plan,IB APC,2018,10,201810,Weather,Attritional,6961856,2785,695090
+Plan,IB APC,2018,11,201811,Weather,Attritional,7056933,2823,701717
+Plan,IB APC,2018,12,201812,Weather,Attritional,7075550,2830,705194
+Plan,IB APC,2019,1,201901,Weather,Attritional,7087139,2835,711698
+Plan,IB APC,2019,2,201902,Weather,Attritional,7174222,2870,714163
+Plan,IB APC,2019,3,201903,Weather,Attritional,7228624,2891,722153
+Plan,IB APC,2019,4,201904,Weather,Attritional,7260967,2904,720489
+Plan,IB APC,2019,5,201905,Weather,Attritional,7276705,2911,728624
+Plan,IB APC,2019,6,201906,Weather,Attritional,7295940,2918,726335
+Plan,IB APC,2019,7,201907,Weather,Attritional,7322796,2929,733047
+Plan,IB APC,2019,8,201908,Weather,Attritional,7426876,2971,737815
+Plan,IB APC,2019,9,201909,Weather,Attritional,7463027,2985,746337
+Plan,IB APC,2019,10,201910,Weather,Attritional,7498042,2999,744523
+Plan,IB APC,2019,11,201911,Weather,Attritional,7461987,2985,747844
+Plan,IB APC,2019,12,201912,Weather,Attritional,7497161,2999,751479
+Plan V2,IB APC,2018,9,201809,Weather,Attritional,9040091,3616,904543
+Plan V2,IB APC,2018,10,201810,Weather,Attritional,9057000,3623,899853
+Plan V2,IB APC,2018,11,201811,Weather,Attritional,9052292,3621,904876
+Plan V2,IB APC,2018,12,201812,Weather,Attritional,9038434,3615,904569
+Plan V2,IB APC,2019,1,201901,Weather,Attritional,9021541,3609,903408
+Plan V2,IB APC,2019,2,201902,Weather,Attritional,9099805,3640,908389
+Plan V2,IB APC,2019,3,201903,Weather,Attritional,9110504,3644,908867
+Plan V2,IB APC,2019,4,201904,Weather,Attritional,9284080,3714,923932
+Plan V2,IB APC,2019,5,201905,Weather,Attritional,9381549,3753,940203
+Plan V2,IB APC,2019,6,201906,Weather,Attritional,9394311,3758,937300
+Plan V2,IB APC,2019,7,201907,Weather,Attritional,9465951,3786,942499
+Plan V2,IB APC,2019,8,201908,Weather,Attritional,9509233,3804,953324
+Plan V2,IB APC,2019,9,201909,Weather,Attritional,9651995,3861,967517
+Plan V2,IB APC,2019,10,201910,Weather,Attritional,9599742,3840,961801
+Plan V2,IB APC,2019,11,201911,Weather,Attritional,9553301,3821,958256
+Plan V2,IB APC,2019,12,201912,Weather,Attritional,9554822,3822,955600
+Actual,IB Main ex APC,2016,1,201601,Weather,Attritional,3419911,1368,343566
+Actual,IB Main ex APC,2016,2,201602,Weather,Attritional,3462377,1385,343439
+Actual,IB Main ex APC,2016,3,201603,Weather,Attritional,3452130,1381,345413
+Actual,IB Main ex APC,2016,4,201604,Weather,Attritional,3489409,1396,347997
+Actual,IB Main ex APC,2016,5,201605,Weather,Attritional,3505716,1402,350626
+Actual,IB Main ex APC,2016,6,201606,Weather,Attritional,3501059,1400,352010
+Actual,IB Main ex APC,2016,7,201607,Weather,Attritional,3536619,1415,352900
+Actual,IB Main ex APC,2016,8,201608,Weather,Attritional,3558583,1423,356434
+Actual,IB Main ex APC,2016,9,201609,Weather,Attritional,3595112,1438,358412
+Actual,IB Main ex APC,2016,10,201610,Weather,Attritional,3621718,1449,361963
+Actual,IB Main ex APC,2016,11,201611,Weather,Attritional,3594948,1438,361658
+Actual,IB Main ex APC,2016,12,201612,Weather,Attritional,3634496,1454,363701
+Actual,IB Main ex APC,2017,1,201701,Weather,Attritional,3660409,1464,367231
+Actual,IB Main ex APC,2017,2,201702,Weather,Attritional,3704226,1482,370948
+Actual,IB Main ex APC,2017,3,201703,Weather,Attritional,3707107,1483,368246
+Actual,IB Main ex APC,2017,4,201704,Weather,Attritional,3711464,1485,373633
+Actual,IB Main ex APC,2017,5,201705,Weather,Attritional,3739314,1496,371832
+Actual,IB Main ex APC,2017,6,201706,Weather,Attritional,3766029,1506,377520
+Actual,IB Main ex APC,2017,7,201707,Weather,Attritional,3768155,1507,379894
+Actual,IB Main ex APC,2017,8,201708,Weather,Attritional,3809100,1524,380322
+Actual,IB Main ex APC,2017,9,201709,Weather,Attritional,3845689,1538,381615
+Actual,IB Main ex APC,2017,10,201710,Weather,Attritional,3823273,1529,381091
+Actual,IB Main ex APC,2017,11,201711,Weather,Attritional,3842092,1537,382636
+Actual,IB Main ex APC,2017,12,201712,Weather,Attritional,3858966,1544,387200
+Actual,IB Main ex APC,2018,1,201801,Weather,Attritional,3876169,1550,386200
+Actual,IB Main ex APC,2018,2,201802,Weather,Attritional,3905053,1562,389056
+Actual,IB Main ex APC,2018,3,201803,Weather,Attritional,3925393,1570,394331
+Actual,IB Main ex APC,2018,4,201804,Weather,Attritional,3924339,1570,394697
+Actual,IB Main ex APC,2018,5,201805,Weather,Attritional,3945153,1578,392489
+Actual,IB Main ex APC,2018,6,201806,Weather,Attritional,3970715,1588,396927
+Actual,IB Main ex APC,2018,7,201807,Weather,Attritional,3984421,1594,395940
+Actual,IB Main ex APC,2018,8,201808,Weather,Attritional,3993220,1597,401287
+Actual,IB Main ex APC,2018,9,201809,Weather,Attritional,4408388,1763,441909
+Actual,IB Main ex APC,2018,10,201810,Weather,Attritional,4492404,1797,446102
+Actual,IB Main ex APC,2018,11,201811,Weather,Attritional,4510664,1804,451773
+Actual,IB Main ex APC,2018,12,201812,Weather,Attritional,4495906,1798,449607
+Actual,IB Main ex APC,2016,2,201602,Weather,Large,3439139,1376,344194
+Actual,IB Main ex APC,2016,3,201603,Weather,Large,3471405,1389,345858
+Actual,IB Main ex APC,2016,6,201606,Weather,Large,3513669,1405,351376
+Actual,IB Main ex APC,2016,11,201611,Weather,Large,3622684,1449,361705
+Actual,IB Main ex APC,2017,7,201707,Weather,Large,3788740,1515,380203
+Actual,IB Main ex APC,2017,8,201708,Weather,Large,3787269,1515,381695
+Actual,IB Main ex APC,2017,9,201709,Weather,Large,3820475,1528,383646
+Actual,IB Main ex APC,2018,3,201803,Weather,Large,3912571,1565,394326
+Actual,IB Main ex APC,2018,9,201809,Weather,Large,4413009,1765,443049
+Plan,IB Main ex APC,2018,7,201807,Weather,Attritional,2270013,908,228359
+Plan,IB Main ex APC,2018,8,201808,Weather,Attritional,2308502,923,229944
+Plan,IB Main ex APC,2018,9,201809,Weather,Attritional,2964542,1186,297301
+Plan,IB Main ex APC,2018,10,201810,Weather,Attritional,2958077,1183,297446
+Plan,IB Main ex APC,2018,11,201811,Weather,Attritional,2984996,1194,298105
+Plan,IB Main ex APC,2018,12,201812,Weather,Attritional,3021177,1208,299854
+Plan,IB Main ex APC,2019,1,201901,Weather,Attritional,3058269,1223,303245
+Plan,IB Main ex APC,2019,2,201902,Weather,Attritional,3065679,1226,305867
+Plan,IB Main ex APC,2019,3,201903,Weather,Attritional,3067064,1227,307859
+Plan,IB Main ex APC,2019,4,201904,Weather,Attritional,3082730,1233,308580
+Plan,IB Main ex APC,2019,5,201905,Weather,Attritional,3085436,1234,307779
+Plan,IB Main ex APC,2019,6,201906,Weather,Attritional,3099124,1240,309001
+Plan,IB Main ex APC,2019,7,201907,Weather,Attritional,3149184,1260,313349
+Plan,IB Main ex APC,2019,8,201908,Weather,Attritional,3111925,1245,312924
+Plan,IB Main ex APC,2019,9,201909,Weather,Attritional,3127136,1251,313785
+Plan,IB Main ex APC,2019,10,201910,Weather,Attritional,3167098,1267,317044
+Plan,IB Main ex APC,2019,11,201911,Weather,Attritional,3152544,1261,314549
+Plan,IB Main ex APC,2019,12,201912,Weather,Attritional,3148549,1259,315031
+Plan V2,IB Main ex APC,2018,9,201809,Weather,Attritional,2723874,1090,272142
+Plan V2,IB Main ex APC,2018,10,201810,Weather,Attritional,2739229,1096,273823
+Plan V2,IB Main ex APC,2018,11,201811,Weather,Attritional,2740190,1096,273179
+Plan V2,IB Main ex APC,2018,12,201812,Weather,Attritional,2752346,1101,274006
+Plan V2,IB Main ex APC,2019,1,201901,Weather,Attritional,2774806,1110,276914
+Plan V2,IB Main ex APC,2019,2,201902,Weather,Attritional,2788500,1115,280058
+Plan V2,IB Main ex APC,2019,3,201903,Weather,Attritional,2837175,1135,284285
+Plan V2,IB Main ex APC,2019,4,201904,Weather,Attritional,2842936,1137,283112
+Plan V2,IB Main ex APC,2019,5,201905,Weather,Attritional,2849169,1140,285460
+Plan V2,IB Main ex APC,2019,6,201906,Weather,Attritional,2864879,1146,288333
+Plan V2,IB Main ex APC,2019,7,201907,Weather,Attritional,2879720,1152,287026
+Plan V2,IB Main ex APC,2019,8,201908,Weather,Attritional,2912098,1165,291780
+Plan V2,IB Main ex APC,2019,9,201909,Weather,Attritional,2924908,1170,290596
+Plan V2,IB Main ex APC,2019,10,201910,Weather,Attritional,2923645,1169,290868
+Plan V2,IB Main ex APC,2019,11,201911,Weather,Attritional,2960425,1184,296319
+Plan V2,IB Main ex APC,2019,12,201912,Weather,Attritional,3002158,1201,297862
+Actual,Santander,2016,1,201601,Weather,Attritional,8860721,3544,885717
+Actual,Santander,2016,2,201602,Weather,Attritional,8921030,3568,898833
+Actual,Santander,2016,3,201603,Weather,Attritional,9041984,3617,899242
+Actual,Santander,2016,4,201604,Weather,Attritional,9083576,3633,904974
+Actual,Santander,2016,5,201605,Weather,Attritional,9118394,3647,906443
+Actual,Santander,2016,6,201606,Weather,Attritional,9153193,3661,918673
+Actual,Santander,2016,7,201607,Weather,Attritional,9133246,3653,917710
+Actual,Santander,2016,8,201608,Weather,Attritional,9205264,3682,919477
+Actual,Santander,2016,9,201609,Weather,Attritional,9213245,3685,925372
+Actual,Santander,2016,10,201610,Weather,Attritional,9336638,3735,929828
+Actual,Santander,2016,11,201611,Weather,Attritional,9347732,3739,938790
+Actual,Santander,2016,12,201612,Weather,Attritional,9380599,3752,940198
+Actual,Santander,2017,1,201701,Weather,Attritional,9515016,3806,948922
+Actual,Santander,2017,2,201702,Weather,Attritional,9573179,3829,957800
+Actual,Santander,2017,3,201703,Weather,Attritional,9646682,3859,972151
+Actual,Santander,2017,4,201704,Weather,Attritional,9678318,3871,973015
+Actual,Santander,2017,5,201705,Weather,Attritional,9757532,3903,969755
+Actual,Santander,2017,6,201706,Weather,Attritional,9826764,3931,980035
+Actual,Santander,2017,7,201707,Weather,Attritional,9814475,3926,980418
+Actual,Santander,2017,8,201708,Weather,Attritional,9844268,3938,982470
+Actual,Santander,2017,9,201709,Weather,Attritional,9899466,3960,994404
+Actual,Santander,2017,10,201710,Weather,Attritional,9946742,3979,991741
+Actual,Santander,2017,11,201711,Weather,Attritional,9996125,3998,997421
+Actual,Santander,2017,12,201712,Weather,Attritional,10024114,4010,1008000
+Actual,Santander,2018,1,201801,Weather,Attritional,9965802,3986,1000746
+Actual,Santander,2018,2,201802,Weather,Attritional,10014639,4006,1007537
+Actual,Santander,2018,3,201803,Weather,Attritional,10186708,4075,1019454
+Actual,Santander,2018,4,201804,Weather,Attritional,10209135,4084,1025575
+Actual,Santander,2018,5,201805,Weather,Attritional,10314853,4126,1026203
+Actual,Santander,2018,6,201806,Weather,Attritional,10382246,4153,1038636
+Actual,Santander,2018,7,201807,Weather,Attritional,10357869,4143,1036369
+Actual,Santander,2018,8,201808,Weather,Attritional,10488885,4196,1040100
+Actual,Santander,2018,9,201809,Weather,Attritional,6995530,2798,699926
+Actual,Santander,2018,10,201810,Weather,Attritional,7044229,2818,707790
+Actual,Santander,2018,11,201811,Weather,Attritional,7069103,2828,707567
+Actual,Santander,2018,12,201812,Weather,Attritional,7126293,2851,712408
+Actual,Santander,2018,3,201803,Weather,Large,10123403,4049,1016880
+Plan,Santander,2018,7,201807,Weather,Attritional,8770821,3508,870738
+Plan,Santander,2018,8,201808,Weather,Attritional,8838550,3535,879718
+Plan,Santander,2018,9,201809,Weather,Attritional,9196898,3679,918982
+Plan,Santander,2018,10,201810,Weather,Attritional,9214169,3686,921518
+Plan,Santander,2018,11,201811,Weather,Attritional,9302207,3721,932524
+Plan,Santander,2018,12,201812,Weather,Attritional,9372212,3749,929934
+Plan,Santander,2019,1,201901,Weather,Attritional,9449231,3780,944743
+Plan,Santander,2019,2,201902,Weather,Attritional,9484303,3794,948165
+Plan,Santander,2019,3,201903,Weather,Attritional,9551473,3821,951354
+Plan,Santander,2019,4,201904,Weather,Attritional,9555711,3822,957111
+Plan,Santander,2019,5,201905,Weather,Attritional,9661388,3865,960938
+Plan,Santander,2019,6,201906,Weather,Attritional,9667023,3867,971865
+Plan,Santander,2019,7,201907,Weather,Attritional,9757230,3903,975502
+Plan,Santander,2019,8,201908,Weather,Attritional,9865758,3946,984609
+Plan,Santander,2019,9,201909,Weather,Attritional,9881102,3952,981318
+Plan,Santander,2019,10,201910,Weather,Attritional,9839572,3936,989639
+Plan,Santander,2019,11,201911,Weather,Attritional,9996563,3999,996426
+Plan,Santander,2019,12,201912,Weather,Attritional,9919919,3968,992395
+Plan V2,Santander,2018,9,201809,Weather,Attritional,7726828,3091,771114
+Plan V2,Santander,2018,10,201810,Weather,Attritional,7698357,3079,771566
+Plan V2,Santander,2018,11,201811,Weather,Attritional,7778608,3111,776183
+Plan V2,Santander,2018,12,201812,Weather,Attritional,7763035,3105,775557
+Plan V2,Santander,2019,1,201901,Weather,Attritional,7822321,3129,782972
+Plan V2,Santander,2019,2,201902,Weather,Attritional,7866249,3146,785264
+Plan V2,Santander,2019,3,201903,Weather,Attritional,7856706,3143,791425
+Plan V2,Santander,2019,4,201904,Weather,Attritional,7932491,3173,790669
+Plan V2,Santander,2019,5,201905,Weather,Attritional,7914711,3166,796183
+Plan V2,Santander,2019,6,201906,Weather,Attritional,7980367,3192,796911
+Plan V2,Santander,2019,7,201907,Weather,Attritional,8017364,3207,795641
+Plan V2,Santander,2019,8,201908,Weather,Attritional,8047666,3219,800066
+Plan V2,Santander,2019,9,201909,Weather,Attritional,8037743,3215,803592
+Plan V2,Santander,2019,10,201910,Weather,Attritional,8111771,3245,815970
+Plan V2,Santander,2019,11,201911,Weather,Attritional,8094430,3238,808133
+Plan V2,Santander,2019,12,201912,Weather,Attritional,8112512,3245,815094
+Actual,TSB,2016,6,201606,Weather,Attritional,319292,128,31775
+Actual,TSB,2016,7,201607,Weather,Attritional,320600,128,32026
+Actual,TSB,2016,9,201609,Weather,Attritional,321468,129,32405
+Actual,TSB,2016,10,201610,Weather,Attritional,324705,130,32298
+Actual,TSB,2016,11,201611,Weather,Attritional,324705,130,32261
+Actual,TSB,2016,12,201612,Weather,Attritional,323236,129,32236
+Actual,TSB,2017,1,201701,Weather,Attritional,322495,129,32477
+Actual,TSB,2017,2,201702,Weather,Attritional,328735,131,32811
+Actual,TSB,2017,3,201703,Weather,Attritional,332707,133,33000
+Actual,TSB,2017,4,201704,Weather,Attritional,335017,134,33482
+Actual,TSB,2017,5,201705,Weather,Attritional,334659,134,33447
+Actual,TSB,2017,6,201706,Weather,Attritional,339600,136,33665
+Actual,TSB,2017,7,201707,Weather,Attritional,339817,136,34145
+Actual,TSB,2017,8,201708,Weather,Attritional,342039,137,34292
+Actual,TSB,2017,9,201709,Weather,Attritional,346628,139,34507
+Actual,TSB,2017,10,201710,Weather,Attritional,345681,138,34445
+Actual,TSB,2017,11,201711,Weather,Attritional,346671,139,34598
+Actual,TSB,2017,12,201712,Weather,Attritional,347645,139,34760
+Actual,TSB,2018,1,201801,Weather,Attritional,350717,140,34868
+Actual,TSB,2018,2,201802,Weather,Attritional,354302,142,35238
+Actual,TSB,2018,3,201803,Weather,Attritional,354115,142,35366
+Actual,TSB,2018,4,201804,Weather,Attritional,356949,143,35599
+Actual,TSB,2018,5,201805,Weather,Attritional,354656,142,35629
+Actual,TSB,2018,6,201806,Weather,Attritional,360886,144,35875
+Actual,TSB,2018,7,201807,Weather,Attritional,361197,144,36151
+Actual,TSB,2018,8,201808,Weather,Attritional,363012,145,36533
+Actual,TSB,2018,9,201809,Weather,Attritional,361975,145,36271
+Actual,TSB,2018,10,201810,Weather,Attritional,363283,145,36130
+Actual,TSB,2018,11,201811,Weather,Attritional,362152,145,36425
+Actual,TSB,2018,12,201812,Weather,Attritional,363292,145,36263
+Plan,TSB,2018,7,201807,Weather,Attritional,464729,186,46133
+Plan,TSB,2018,8,201808,Weather,Attritional,468565,187,46659
+Plan,TSB,2018,9,201809,Weather,Attritional,422981,169,42079
+Plan,TSB,2018,10,201810,Weather,Attritional,425320,170,42432
+Plan,TSB,2018,11,201811,Weather,Attritional,422145,169,42279
+Plan,TSB,2018,12,201812,Weather,Attritional,430392,172,42673
+Plan,TSB,2019,1,201901,Weather,Attritional,431415,173,43135
+Plan,TSB,2019,2,201902,Weather,Attritional,435350,174,43464
+Plan,TSB,2019,3,201903,Weather,Attritional,435502,174,43532
+Plan,TSB,2019,4,201904,Weather,Attritional,441923,177,44298
+Plan,TSB,2019,5,201905,Weather,Attritional,439085,176,44146
+Plan,TSB,2019,6,201906,Weather,Attritional,440890,176,44296
+Plan,TSB,2019,7,201907,Weather,Attritional,446054,178,44561
+Plan,TSB,2019,8,201908,Weather,Attritional,445748,178,44632
+Plan,TSB,2019,9,201909,Weather,Attritional,450473,180,44921
+Plan,TSB,2019,10,201910,Weather,Attritional,452038,181,45143
+Plan,TSB,2019,11,201911,Weather,Attritional,455250,182,45539
+Plan,TSB,2019,12,201912,Weather,Attritional,456688,183,45801
+Plan V2,TSB,2018,9,201809,Weather,Attritional,643280,257,63996
+Plan V2,TSB,2018,10,201810,Weather,Attritional,640921,256,63906
+Plan V2,TSB,2018,11,201811,Weather,Attritional,638677,255,63998
+Plan V2,TSB,2018,12,201812,Weather,Attritional,648234,259,64628
+Plan V2,TSB,2019,1,201901,Weather,Attritional,654472,262,65029
+Plan V2,TSB,2019,2,201902,Weather,Attritional,658186,263,65493
+Plan V2,TSB,2019,3,201903,Weather,Attritional,663249,265,66011
+Plan V2,TSB,2019,4,201904,Weather,Attritional,662920,265,65896
+Plan V2,TSB,2019,5,201905,Weather,Attritional,670456,268,66455
+Plan V2,TSB,2019,6,201906,Weather,Attritional,670473,268,66585
+Plan V2,TSB,2019,7,201907,Weather,Attritional,674001,270,67494
+Plan V2,TSB,2019,8,201908,Weather,Attritional,677983,271,67436
+Plan V2,TSB,2019,9,201909,Weather,Attritional,675922,270,67714
+Plan V2,TSB,2019,10,201910,Weather,Attritional,676852,271,68230
+Plan V2,TSB,2019,11,201911,Weather,Attritional,692160,277,69034
+Plan V2,TSB,2019,12,201912,Weather,Attritional,693904,278,69432
+Actual,UKDI,2016,1,201601,Weather,Attritional,9041173,3616,911539
+Actual,UKDI,2016,2,201602,Weather,Attritional,9195122,3678,916371
+Actual,UKDI,2016,3,201603,Weather,Attritional,9178723,3671,923280
+Actual,UKDI,2016,4,201604,Weather,Attritional,9302220,3721,932266
+Actual,UKDI,2016,5,201605,Weather,Attritional,9380545,3752,939676
+Actual,UKDI,2016,6,201606,Weather,Attritional,9387826,3755,939323
+Actual,UKDI,2016,7,201607,Weather,Attritional,9512740,3805,952877
+Actual,UKDI,2016,8,201608,Weather,Attritional,9523074,3809,954016
+Actual,UKDI,2016,9,201609,Weather,Attritional,9550509,3820,954832
+Actual,UKDI,2016,10,201610,Weather,Attritional,9591227,3836,958932
+Actual,UKDI,2016,11,201611,Weather,Attritional,9636500,3855,971143
+Actual,UKDI,2016,12,201612,Weather,Attritional,9694594,3878,966060
+Actual,UKDI,2017,1,201701,Weather,Attritional,9756999,3903,970593
+Actual,UKDI,2017,2,201702,Weather,Attritional,9709946,3884,971743
+Actual,UKDI,2017,3,201703,Weather,Attritional,9825497,3930,973430
+Actual,UKDI,2017,4,201704,Weather,Attritional,9903515,3961,990638
+Actual,UKDI,2017,5,201705,Weather,Attritional,9934038,3974,996185
+Actual,UKDI,2017,6,201706,Weather,Attritional,9979601,3992,999442
+Actual,UKDI,2017,7,201707,Weather,Attritional,9980993,3992,994333
+Actual,UKDI,2017,8,201708,Weather,Attritional,9903618,3961,988235
+Actual,UKDI,2017,9,201709,Weather,Attritional,9983011,3993,1005753
+Actual,UKDI,2017,10,201710,Weather,Attritional,10063513,4025,1003411
+Actual,UKDI,2017,11,201711,Weather,Attritional,9999612,4000,1002027
+Actual,UKDI,2017,12,201712,Weather,Attritional,10167445,4067,1019478
+Actual,UKDI,2018,1,201801,Weather,Attritional,10232739,4093,1020710
+Actual,UKDI,2018,2,201802,Weather,Attritional,10266683,4107,1032549
+Actual,UKDI,2018,3,201803,Weather,Attritional,10317625,4127,1031249
+Actual,UKDI,2018,4,201804,Weather,Attritional,10458833,4184,1053371
+Actual,UKDI,2018,5,201805,Weather,Attritional,10540563,4216,1052404
+Actual,UKDI,2018,6,201806,Weather,Attritional,10544494,4218,1059255
+Actual,UKDI,2018,7,201807,Weather,Attritional,10639314,4256,1065937
+Actual,UKDI,2018,8,201808,Weather,Attritional,10587128,4235,1061618
+Actual,UKDI,2018,9,201809,Weather,Attritional,11905353,4762,1196401
+Actual,UKDI,2018,10,201810,Weather,Attritional,12041136,4816,1209227
+Actual,UKDI,2018,11,201811,Weather,Attritional,12103646,4841,1213701
+Actual,UKDI,2018,12,201812,Weather,Attritional,12146474,4859,1224141
+Actual,UKDI,2016,6,201606,Weather,Large,9446443,3779,946035
+Actual,UKDI,2018,3,201803,Weather,Large,10319551,4128,1040664
+Actual,UKDI,2018,12,201812,Weather,Large,12241920,4897,1217434
+Plan,UKDI,2018,7,201807,Weather,Attritional,15141807,6057,1517065
+Plan,UKDI,2018,8,201808,Weather,Attritional,15319673,6128,1535324
+Plan,UKDI,2018,9,201809,Weather,Attritional,15799632,6320,1569053
+Plan,UKDI,2018,10,201810,Weather,Attritional,15869194,6348,1585982
+Plan,UKDI,2018,11,201811,Weather,Attritional,16015468,6406,1596867
+Plan,UKDI,2018,12,201812,Weather,Attritional,16248829,6500,1612525
+Plan,UKDI,2019,1,201901,Weather,Attritional,16288432,6515,1632583
+Plan,UKDI,2019,2,201902,Weather,Attritional,16234285,6494,1634587
+Plan,UKDI,2019,3,201903,Weather,Attritional,16481740,6593,1658086
+Plan,UKDI,2019,4,201904,Weather,Attritional,16496062,6598,1651995
+Plan,UKDI,2019,5,201905,Weather,Attritional,16877344,6751,1679025
+Plan,UKDI,2019,6,201906,Weather,Attritional,16865840,6746,1691194
+Plan,UKDI,2019,7,201907,Weather,Attritional,17049731,6820,1705594
+Plan,UKDI,2019,8,201908,Weather,Attritional,17163426,6865,1713952
+Plan,UKDI,2019,9,201909,Weather,Attritional,17162623,6865,1716465
+Plan,UKDI,2019,10,201910,Weather,Attritional,17195659,6878,1715090
+Plan,UKDI,2019,11,201911,Weather,Attritional,17226267,6891,1726735
+Plan,UKDI,2019,12,201912,Weather,Attritional,17223137,6889,1731175
+Plan V2,UKDI,2018,9,201809,Weather,Attritional,11605700,4642,1165099
+Plan V2,UKDI,2018,10,201810,Weather,Attritional,11614316,4646,1162028
+Plan V2,UKDI,2018,11,201811,Weather,Attritional,11778945,4712,1178661
+Plan V2,UKDI,2018,12,201812,Weather,Attritional,11871385,4749,1194827
+Plan V2,UKDI,2019,1,201901,Weather,Attritional,12020198,4808,1199618
+Plan V2,UKDI,2019,2,201902,Weather,Attritional,11991740,4797,1202883
+Plan V2,UKDI,2019,3,201903,Weather,Attritional,11988773,4796,1200456
+Plan V2,UKDI,2019,4,201904,Weather,Attritional,12222159,4889,1224064
+Plan V2,UKDI,2019,5,201905,Weather,Attritional,12308797,4924,1237153
+Plan V2,UKDI,2019,6,201906,Weather,Attritional,12311532,4925,1239359
+Plan V2,UKDI,2019,7,201907,Weather,Attritional,12384523,4954,1244059
+Plan V2,UKDI,2019,8,201908,Weather,Attritional,12459028,4984,1249118
+Plan V2,UKDI,2019,9,201909,Weather,Attritional,12627873,5051,1266232
+Plan V2,UKDI,2019,10,201910,Weather,Attritional,12584417,5034,1260618
+Plan V2,UKDI,2019,11,201911,Weather,Attritional,12796372,5119,1278989
+Plan V2,UKDI,2019,12,201912,Weather,Attritional,12735099,5094,1270877
+Actual,Total,2016,1,201601,Non Weather,Attritional,32968882,18415,4600062
+Actual,Total,2016,2,201602,Non Weather,Attritional,33259237,18548,4630771
+Actual,Total,2016,3,201603,Non Weather,Attritional,33523997,18639,4664533
+Actual,Total,2016,4,201604,Non Weather,Attritional,33738214,18719,4681683
+Actual,Total,2016,5,201605,Non Weather,Attritional,33992220,18874,4712442
+Actual,Total,2016,6,201606,Non Weather,Attritional,34257582,18957,4752916
+Actual,Total,2016,7,201607,Non Weather,Attritional,34533392,19190,4788192
+Actual,Total,2016,8,201608,Non Weather,Attritional,34562283,19235,4813888
+Actual,Total,2016,9,201609,Non Weather,Attritional,34923022,19431,4853830
+Actual,Total,2016,10,201610,Non Weather,Attritional,35076516,19487,4875050
+Actual,Total,2016,11,201611,Non Weather,Attritional,35589290,19669,4910349
+Actual,Total,2016,12,201612,Non Weather,Attritional,35490486,19697,4923996
+Actual,Total,2017,1,201701,Non Weather,Attritional,36068023,19932,4973894
+Actual,Total,2017,2,201702,Non Weather,Attritional,36093462,20030,5005279
+Actual,Total,2017,3,201703,Non Weather,Attritional,36637508,20225,5045908
+Actual,Total,2017,4,201704,Non Weather,Attritional,37070662,20291,5077561
+Actual,Total,2017,5,201705,Non Weather,Attritional,37033316,20449,5115512
+Actual,Total,2017,6,201706,Non Weather,Attritional,37747616,20705,5168548
+Actual,Total,2017,7,201707,Non Weather,Attritional,37694209,20785,5178361
+Actual,Total,2017,8,201708,Non Weather,Attritional,37925739,20832,5207021
+Actual,Total,2017,9,201709,Non Weather,Attritional,38612898,21053,5247361
+Actual,Total,2017,10,201710,Non Weather,Attritional,38637358,21093,5277818
+Actual,Total,2017,11,201711,Non Weather,Attritional,38825908,21236,5315526
+Actual,Total,2017,12,201712,Non Weather,Attritional,39138168,21480,5357416
+Actual,Total,2018,1,201801,Non Weather,Attritional,39424607,21576,5386700
+Actual,Total,2018,2,201802,Non Weather,Attritional,39723110,21791,5443372
+Actual,Total,2018,3,201803,Non Weather,Attritional,40162063,22035,5504980
+Actual,Total,2018,4,201804,Non Weather,Attritional,40430738,22179,5549931
+Actual,Total,2018,5,201805,Non Weather,Attritional,40564704,22371,5585989
+Actual,Total,2018,6,201806,Non Weather,Attritional,41033727,22472,5617781
+Actual,Total,2018,7,201807,Non Weather,Attritional,41142659,22723,5665770
+Actual,Total,2018,8,201808,Non Weather,Attritional,41495084,22834,5695882
+Actual,Total,2018,9,201809,Non Weather,Attritional,36983043,21587,5409266
+Actual,Total,2018,10,201810,Non Weather,Attritional,37272204,21799,5454575
+Actual,Total,2018,11,201811,Non Weather,Attritional,37604097,22015,5484985
+Actual,Total,2018,12,201812,Non Weather,Attritional,37966764,22158,5536376
+Actual,Total,2016,1,201601,Non Weather,Large,32807686,7886,1967477
+Actual,Total,2016,2,201602,Non Weather,Large,33259844,11650,2915711
+Actual,Total,2016,3,201603,Non Weather,Large,33545006,11751,2939062
+Actual,Total,2016,4,201604,Non Weather,Large,33727666,5973,1487499
+Actual,Total,2016,5,201605,Non Weather,Large,33847071,8226,2052357
+Actual,Total,2016,6,201606,Non Weather,Large,34029358,6610,1646117
+Actual,Total,2016,7,201607,Non Weather,Large,34539981,14875,3722095
+Actual,Total,2016,8,201608,Non Weather,Large,34702627,12289,3075299
+Actual,Total,2016,9,201609,Non Weather,Large,35052059,10072,2511894
+Actual,Total,2016,10,201610,Non Weather,Large,35108614,8780,2184455
+Actual,Total,2016,11,201611,Non Weather,Large,35355429,6470,1622932
+Actual,Total,2016,12,201612,Non Weather,Large,35533321,5336,1329461
+Actual,Total,2017,1,201701,Non Weather,Large,36022329,9179,2286934
+Actual,Total,2017,2,201702,Non Weather,Large,36310923,12996,3241117
+Actual,Total,2017,3,201703,Non Weather,Large,36462945,13497,3376164
+Actual,Total,2017,4,201704,Non Weather,Large,36905270,14920,3721699
+Actual,Total,2017,5,201705,Non Weather,Large,37219608,1492,372655
+Actual,Total,2017,6,201706,Non Weather,Large,37588954,10673,2665010
+Actual,Total,2017,7,201707,Non Weather,Large,37928331,19137,4787064
+Actual,Total,2017,8,201708,Non Weather,Large,38111710,9818,2446934
+Actual,Total,2017,9,201709,Non Weather,Large,38521268,18171,4549499
+Actual,Total,2017,10,201710,Non Weather,Large,38831640,14237,3574631
+Actual,Total,2017,11,201711,Non Weather,Large,38860232,14471,3613071
+Actual,Total,2017,12,201712,Non Weather,Large,39122072,11554,2903106
+Actual,Total,2018,1,201801,Non Weather,Large,39632462,15788,3947476
+Actual,Total,2018,2,201802,Non Weather,Large,39661164,14211,3552847
+Actual,Total,2018,3,201803,Non Weather,Large,40284317,20863,5206096
+Actual,Total,2018,4,201804,Non Weather,Large,40459656,13645,3427398
+Actual,Total,2018,5,201805,Non Weather,Large,40713944,19541,4880765
+Actual,Total,2018,6,201806,Non Weather,Large,40950704,11267,2815176
+Actual,Total,2018,7,201807,Non Weather,Large,41316153,20009,4998128
+Actual,Total,2018,8,201808,Non Weather,Large,41288522,17511,4385028
+Actual,Total,2018,9,201809,Non Weather,Large,36886583,13621,3404827
+Actual,Total,2018,10,201810,Non Weather,Large,37388727,6630,1652762
+Actual,Total,2018,11,201811,Non Weather,Large,37659390,6077,1524846
+Actual,Total,2018,12,201812,Non Weather,Large,38018321,4862,1223556
+Plan,Total,2018,7,201807,Non Weather,Attritional,58350775,23873,5987751
+Plan,Total,2018,8,201808,Non Weather,Attritional,58745668,24087,6037442
+Plan,Total,2018,9,201809,Non Weather,Attritional,59193957,23969,5999408
+Plan,Total,2018,10,201810,Non Weather,Attritional,59959256,24259,6063813
+Plan,Total,2018,11,201811,Non Weather,Attritional,60150367,24477,6105568
+Plan,Total,2018,12,201812,Non Weather,Attritional,61062771,24664,6181518
+Plan,Total,2019,1,201901,Non Weather,Attritional,62134481,25047,6279733
+Plan,Total,2019,2,201902,Non Weather,Attritional,62423341,25242,6324869
+Plan,Total,2019,3,201903,Non Weather,Attritional,62064257,25062,6278371
+Plan,Total,2019,4,201904,Non Weather,Attritional,62549703,25236,6320050
+Plan,Total,2019,5,201905,Non Weather,Attritional,62431459,25364,6343721
+Plan,Total,2019,6,201906,Non Weather,Attritional,63202598,25460,6361984
+Plan,Total,2019,7,201907,Non Weather,Attritional,62830156,25530,6398216
+Plan,Total,2019,8,201908,Non Weather,Attritional,63154746,25702,6424509
+Plan,Total,2019,9,201909,Non Weather,Attritional,64027379,25856,6478810
+Plan,Total,2019,10,201910,Non Weather,Attritional,64858458,26177,6522872
+Plan,Total,2019,11,201911,Non Weather,Attritional,64489407,26195,6540275
+Plan,Total,2019,12,201912,Non Weather,Attritional,64108791,26031,6509330
+Plan,Total,2018,7,201807,Non Weather,Large,58044361,23953,5985817
+Plan,Total,2018,8,201808,Non Weather,Large,58226480,24101,6024797
+Plan,Total,2018,9,201809,Non Weather,Large,59023552,23927,6006079
+Plan,Total,2018,10,201810,Non Weather,Large,59765182,24217,6075580
+Plan,Total,2018,11,201811,Non Weather,Large,60254901,24478,6112288
+Plan,Total,2018,12,201812,Non Weather,Large,61091238,24710,6168861
+Plan,Total,2019,1,201901,Non Weather,Large,61648697,25116,6259547
+Plan,Total,2019,2,201902,Non Weather,Large,62379352,25242,6308545
+Plan,Total,2019,3,201903,Non Weather,Large,61836857,25132,6279381
+Plan,Total,2019,4,201904,Non Weather,Large,62201373,25260,6321791
+Plan,Total,2019,5,201905,Non Weather,Large,62424646,25351,6350593
+Plan,Total,2019,6,201906,Non Weather,Large,63082277,25530,6375986
+Plan,Total,2019,7,201907,Non Weather,Large,62927202,25585,6404667
+Plan,Total,2019,8,201908,Non Weather,Large,63195172,25727,6424634
+Plan,Total,2019,9,201909,Non Weather,Large,63627851,25936,6479837
+Plan,Total,2019,10,201910,Non Weather,Large,64852576,26104,6536577
+Plan,Total,2019,11,201911,Non Weather,Large,64449725,26220,6545542
+Plan,Total,2019,12,201912,Non Weather,Large,64409142,26056,6497930
+Plan V2,Total,2018,9,201809,Non Weather,Attritional,53813713,20777,5191880
+Plan V2,Total,2018,10,201810,Non Weather,Attritional,54152776,20867,5228247
+Plan V2,Total,2018,11,201811,Non Weather,Attritional,54656918,21026,5261482
+Plan V2,Total,2018,12,201812,Non Weather,Attritional,55276732,21156,5285809
+Plan V2,Total,2019,1,201901,Non Weather,Attritional,55297548,21315,5323225
+Plan V2,Total,2019,2,201902,Non Weather,Attritional,55519557,21308,5340252
+Plan V2,Total,2019,3,201903,Non Weather,Attritional,55571702,21410,5360242
+Plan V2,Total,2019,4,201904,Non Weather,Attritional,56203953,21646,5400733
+Plan V2,Total,2019,5,201905,Non Weather,Attritional,56300908,21749,5424907
+Plan V2,Total,2019,6,201906,Non Weather,Attritional,56587325,21850,5448085
+Plan V2,Total,2019,7,201907,Non Weather,Attritional,57011278,21939,5486799
+Plan V2,Total,2019,8,201908,Non Weather,Attritional,57388641,22051,5508220
+Plan V2,Total,2019,9,201909,Non Weather,Attritional,57440782,22180,5535501
+Plan V2,Total,2019,10,201910,Non Weather,Attritional,57826020,22252,5553082
+Plan V2,Total,2019,11,201911,Non Weather,Attritional,57668323,22331,5570464
+Plan V2,Total,2019,12,201912,Non Weather,Attritional,57998258,22341,5574379
+Plan V2,Total,2018,9,201809,Non Weather,Large,53687793,20771,5185522
+Plan V2,Total,2018,10,201810,Non Weather,Large,54285015,20884,5223851
+Plan V2,Total,2018,11,201811,Non Weather,Large,54610235,21048,5262794
+Plan V2,Total,2018,12,201812,Non Weather,Large,55211170,21206,5295177
+Plan V2,Total,2019,1,201901,Non Weather,Large,55433501,21274,5337474
+Plan V2,Total,2019,2,201902,Non Weather,Large,55279747,21352,5331158
+Plan V2,Total,2019,3,201903,Non Weather,Large,56062715,21404,5359133
+Plan V2,Total,2019,4,201904,Non Weather,Large,56130789,21596,5391323
+Plan V2,Total,2019,5,201905,Non Weather,Large,56851140,21766,5429079
+Plan V2,Total,2019,6,201906,Non Weather,Large,56800331,21819,5453457
+Plan V2,Total,2019,7,201907,Non Weather,Large,56982852,21867,5459538
+Plan V2,Total,2019,8,201908,Non Weather,Large,57010709,22031,5516063
+Plan V2,Total,2019,9,201909,Non Weather,Large,57354948,22135,5547453
+Plan V2,Total,2019,10,201910,Non Weather,Large,57646239,22198,5550185
+Plan V2,Total,2019,11,201911,Non Weather,Large,57602725,22347,5563656
+Plan V2,Total,2019,12,201912,Non Weather,Large,57962951,22336,5576023
+Actual,Total,2016,1,201601,Weather,Attritional,32942879,14213,3557746
+Actual,Total,2016,2,201602,Weather,Attritional,33147078,14350,3586937
+Actual,Total,2016,3,201603,Weather,Attritional,33307974,14397,3600048
+Actual,Total,2016,4,201604,Weather,Attritional,33672067,14556,3628928
+Actual,Total,2016,5,201605,Weather,Attritional,33980000,14683,3659384
+Actual,Total,2016,6,201606,Weather,Attritional,34110949,14874,3724928
+Actual,Total,2016,7,201607,Weather,Attritional,34444873,15010,3752045
+Actual,Total,2016,8,201608,Weather,Attritional,34476047,14975,3743479
+Actual,Total,2016,9,201609,Weather,Attritional,35009427,15201,3804146
+Actual,Total,2016,10,201610,Weather,Attritional,35162758,15325,3825451
+Actual,Total,2016,11,201611,Weather,Attritional,35518095,15418,3863288
+Actual,Total,2016,12,201612,Weather,Attritional,35645055,19745,4928962
+Actual,Total,2017,1,201701,Weather,Attritional,35955314,19907,4973530
+Actual,Total,2017,2,201702,Weather,Attritional,36203760,19981,4995801
+Actual,Total,2017,3,201703,Weather,Attritional,36736026,20188,5048469
+Actual,Total,2017,4,201704,Weather,Attritional,37076237,16072,4018307
+Actual,Total,2017,5,201705,Weather,Attritional,37031571,20463,5102637
+Actual,Total,2017,6,201706,Weather,Attritional,37527557,20653,5161367
+Actual,Total,2017,7,201707,Weather,Attritional,37959547,20753,5183740
+Actual,Total,2017,8,201708,Weather,Attritional,38114035,20842,5204902
+Actual,Total,2017,9,201709,Weather,Attritional,38495486,20953,5248538
+Actual,Total,2017,10,201710,Weather,Attritional,38661958,21111,5282522
+Actual,Total,2017,11,201711,Weather,Attritional,38812058,21271,5325297
+Actual,Total,2017,12,201712,Weather,Attritional,39055069,21448,5369974
+Actual,Total,2018,1,201801,Weather,Attritional,39471278,21550,5389009
+Actual,Total,2018,2,201802,Weather,Attritional,39708509,21754,5447566
+Actual,Total,2018,3,201803,Weather,Attritional,39941797,21970,5509364
+Actual,Total,2018,4,201804,Weather,Attritional,40350256,22179,5550509
+Actual,Total,2018,5,201805,Weather,Attritional,40707577,22396,5590701
+Actual,Total,2018,6,201806,Weather,Attritional,41158671,22519,5634156
+Actual,Total,2018,7,201807,Weather,Attritional,41252610,22691,5678900
+Actual,Total,2018,8,201808,Weather,Attritional,41663692,22854,5698537
+Actual,Total,2018,9,201809,Weather,Attritional,37043435,21616,5408696
+Actual,Total,2018,10,201810,Weather,Attritional,37147835,21808,5453526
+Actual,Total,2018,11,201811,Weather,Attritional,37628989,21952,5490405
+Actual,Total,2018,12,201812,Weather,Attritional,37838523,22130,5543389
+Actual,Total,2016,1,201601,Weather,Large,32985323,0,0
+Actual,Total,2016,2,201602,Weather,Large,33277804,0,0
+Actual,Total,2016,3,201603,Weather,Large,33265571,0,0
+Actual,Total,2016,4,201604,Weather,Large,33655428,0,0
+Actual,Total,2016,5,201605,Weather,Large,33877468,0,0
+Actual,Total,2016,6,201606,Weather,Large,33999964,0,0
+Actual,Total,2016,7,201607,Weather,Large,34546255,0,0
+Actual,Total,2016,8,201608,Weather,Large,34475506,0,0
+Actual,Total,2016,9,201609,Weather,Large,34927273,0,0
+Actual,Total,2016,10,201610,Weather,Large,35116161,0,0
+Actual,Total,2016,11,201611,Weather,Large,35417135,0,0
+Actual,Total,2016,12,201612,Weather,Large,35836058,0,0
+Actual,Total,2017,1,201701,Weather,Large,36085748,0,0
+Actual,Total,2017,2,201702,Weather,Large,36271498,0,0
+Actual,Total,2017,3,201703,Weather,Large,36481140,0,0
+Actual,Total,2017,4,201704,Weather,Large,36811723,0,0
+Actual,Total,2017,5,201705,Weather,Large,37265010,0,0
+Actual,Total,2017,6,201706,Weather,Large,37681063,0,0
+Actual,Total,2017,7,201707,Weather,Large,37657044,0,0
+Actual,Total,2017,8,201708,Weather,Large,38105186,0,0
+Actual,Total,2017,9,201709,Weather,Large,38280325,0,0
+Actual,Total,2017,10,201710,Weather,Large,38513071,0,0
+Actual,Total,2017,11,201711,Weather,Large,39046203,0,0
+Actual,Total,2017,12,201712,Weather,Large,39073675,0,0
+Actual,Total,2018,1,201801,Weather,Large,39696641,0,0
+Actual,Total,2018,2,201802,Weather,Large,39871526,0,0
+Actual,Total,2018,3,201803,Weather,Large,40148517,0,0
+Actual,Total,2018,4,201804,Weather,Large,40476661,0,0
+Actual,Total,2018,5,201805,Weather,Large,40901502,0,0
+Actual,Total,2018,6,201806,Weather,Large,41084222,0,0
+Actual,Total,2018,7,201807,Weather,Large,41405559,0,0
+Actual,Total,2018,8,201808,Weather,Large,41543475,0,0
+Actual,Total,2018,9,201809,Weather,Large,36901864,0,0
+Actual,Total,2018,10,201810,Weather,Large,37446734,0,0
+Actual,Total,2018,11,201811,Weather,Large,37518481,0,0
+Actual,Total,2018,12,201812,Weather,Large,37833364,4897,1217434
+Plan,Total,2018,7,201807,Weather,Attritional,58324709,23958,5986180
+Plan,Total,2018,8,201808,Weather,Attritional,58477291,24123,6027913
+Plan,Total,2018,9,201809,Weather,Attritional,59023251,23989,5995283
+Plan,Total,2018,10,201810,Weather,Attritional,59629260,24224,6070946
+Plan,Total,2018,11,201811,Weather,Attritional,60276095,24502,6111532
+Plan,Total,2018,12,201812,Weather,Attritional,61274012,24765,6167128
+Plan,Total,2019,1,201901,Weather,Attritional,62010458,25060,6267399
+Plan,Total,2019,2,201902,Weather,Attritional,62611167,25212,6300562
+Plan,Total,2019,3,201903,Weather,Attritional,62167922,25134,6292589
+Plan,Total,2019,4,201904,Weather,Attritional,62661594,25209,6308331
+Plan,Total,2019,5,201905,Weather,Attritional,62800322,25433,6342721
+Plan,Total,2019,6,201906,Weather,Attritional,63163132,25517,6376256
+Plan,Total,2019,7,201907,Weather,Attritional,63171106,25550,6397645
+Plan,Total,2019,8,201908,Weather,Attritional,63078201,25739,6431741
+Plan,Total,2019,9,201909,Weather,Attritional,64050024,25923,6475699
+Plan,Total,2019,10,201910,Weather,Attritional,64634477,26144,6531740
+Plan,Total,2019,11,201911,Weather,Attritional,64765643,26178,6548373
+Plan,Total,2019,12,201912,Weather,Attritional,64057392,25996,6520467
+Plan V2,Total,2018,9,201809,Weather,Attritional,54019387,20772,5201127
+Plan V2,Total,2018,10,201810,Weather,Attritional,54405931,20865,5225645
+Plan V2,Total,2018,11,201811,Weather,Attritional,54709854,21048,5257382
+Plan V2,Total,2018,12,201812,Weather,Attritional,55047436,21173,5292638
+Plan V2,Total,2019,1,201901,Weather,Attritional,55524013,21321,5314643
+Plan V2,Total,2019,2,201902,Weather,Attritional,55721319,21350,5343704
+Plan V2,Total,2019,3,201903,Weather,Attritional,56111299,21369,5349815
+Plan V2,Total,2019,4,201904,Weather,Attritional,56082967,21649,5404575
+Plan V2,Total,2019,5,201905,Weather,Attritional,56633546,21727,5433735
+Plan V2,Total,2019,6,201906,Weather,Attritional,56627156,21795,5442978
+Plan V2,Total,2019,7,201907,Weather,Attritional,57081166,21883,5460547
+Plan V2,Total,2019,8,201908,Weather,Attritional,57379801,21979,5502326
+Plan V2,Total,2019,9,201909,Weather,Attritional,57429205,22174,5549385
+Plan V2,Total,2019,10,201910,Weather,Attritional,57347676,22205,5555475
+Plan V2,Total,2019,11,201911,Weather,Attritional,57777106,22316,5574702
+Plan V2,Total,2019,12,201912,Weather,Attritional,58080204,22343,5586654

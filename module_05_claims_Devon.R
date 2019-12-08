@@ -1,0 +1,201 @@
+#### Claims Module - Devon ####
+# This module supports the Claims tabs with:
+#  - creating all the required data for:
+#     - chart 2
+#  - creating the plotting functions for
+#     - chart 2
+
+#### Libraries ####
+# This module uses the following libraries, which are loaded in the global.R file:
+# library(ggplot2)      # for plotting charts
+
+#### Tolerance Chart ####
+fn.data.claims.Devon <- function(
+  # data sources
+  df_T  = df_Tolerance,
+  df_C  = df_Claims,
+  df_F  = df_Forecast,
+  # data filters
+  segment, #input$Segment
+  plan.version, #input$Plan_Version
+  forecast.date #substr(input$as_at_date,1,3)
+){
+  #@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@
+  # This function generates the data for Claims tabs chart 2s
+  # inputs - df_Claims, df_Forecast = input tables loaded from .csv in global.R
+  #        - df_Tolerance = dynamically generatd table in sympathy with input slider
+  #        - segment, forecast.date, plan.version = dynamic inputs for filtering data, taken from input widgets
+  # returns - df_chart is a data frame for the Claims tabs chart 2s
+  #@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@
+  
+  # filter claims data for plan version
+  df_C  = df_C[
+    (df_C$Segment      == segment) &
+    (df_C$Version.Name == plan.version) & 
+    (df_C$Large.Claim  == "Attritional") &
+    (df_C$Peril        == "Non Weather")
+    ,]
+  
+  df_C$Avg.Cost <- apply(df_C, 1, function(x){as.numeric(x["Incurred.Cost"])/as.numeric(x["Claims.Nos"])})
+  df_C$Freq     <- apply(df_C, 1, function(x){as.numeric(x["Claims.Nos"])/as.numeric(x["Earned.Exposure"])})
+  
+  # filter Forecast data
+  df_F =  df_F[
+    (df_F$Segment       == segment) &
+    (df_F$Forecast.Date == forecast.date)
+    ,]
+  
+  # join plan and forecast
+  df_chart = merge(df_C, df_F, by = "Period")
+  df_chart$diff_Freq <- apply(df_chart,1,function(x){as.numeric(x["Claims.Frequency"])-as.numeric(x["Freq"])})
+  df_chart$diff_AC   <- apply(df_chart,1,function(x){as.numeric(x["Average.Cost"])-as.numeric(x["Avg.Cost"])})
+
+  # cumulative sums
+  df_chart <- df_chart[order(df_chart$Period),]
+  # cumulative sum incurred, claims.nos, exposure
+  df_chart$csum_incurred   <- ave(df_chart$Incurred.Cost  , FUN = cumsum)
+  df_chart$csum_claims_nos <- ave(df_chart$Claims.Nos     , FUN = cumsum)
+  df_chart$csum_exposure   <- ave(df_chart$Earned.Exposure, FUN = cumsum)
+
+  # convert cumulative sums into AC and Freq
+  df_chart$csum_AC     <- apply(df_chart,1,function(x){as.numeric(x["csum_incurred"  ]) / as.numeric(x["csum_claims_nos"])})
+  df_chart$csum_Freq   <- apply(df_chart,1,function(x){as.numeric(x["csum_claims_nos"]) / as.numeric(x["csum_exposure"  ])})
+  
+  # find differences between forecast and plan
+  
+  df_chart$csum_diff_AC   <- apply(df_chart, 1, function(x){as.numeric(x["Average.Cost"    ]) - as.numeric(x["csum_AC"  ])})
+  df_chart$csum_diff_Freq <- apply(df_chart, 1, function(x){as.numeric(x["Claims.Frequency"]) - as.numeric(x["csum_Freq"])})
+  
+  # find tolerance level
+  
+  df_chart$AC_Tol        <- rep(df_T[(df_T$Segment == segment),"Average_Claims_Tolerance"],NROW(df_chart))
+  df_chart$Freq_Tol      <- rep(df_T[(df_T$Segment == segment),"Claims_Freq_Tolerance"]   ,NROW(df_chart))
+  df_chart$AC_Tol_down   <- -df_chart$AC_Tol
+  df_chart$Freq_Tol_down <- -df_chart$Freq_Tol
+
+  # Ok that's all the data in place, now just to shape it for the charts
+  # pluses and minuses as separate series so that bars can be coloured how we want:
+
+  df_chart$csum_diff_AC_pluses  <- apply(df_chart[,"csum_diff_AC",drop=F],1,function(x){if(x>=0){x}else{0}})
+  df_chart$csum_diff_AC_minuses <- apply(df_chart[,"csum_diff_AC",drop=F],1,function(x){if(x <0){x}else{0}})
+
+  df_chart$csum_diff_Freq_pluses  <- apply(df_chart[,"csum_diff_Freq",drop=F],1,function(x){if(x>=0){x}else{0}})
+  df_chart$csum_diff_Freq_minuses <- apply(df_chart[,"csum_diff_Freq",drop=F],1,function(x){if(x <0){x}else{0}})
+
+  # amending Period so it isn't interpreted as number
+  df_chart$Period <- as.character(df_chart$Period)
+  # adding 3-letter month for x axis labels
+  dic_month <- list(
+    "01"  = "Jan"
+    ,"02" = "Feb"
+    ,"03" = "Mar"
+    ,"04" = "Apr"
+    ,"05" = "May"
+    ,"06" = "Jun"
+    ,"07" = "Jul"
+    ,"08" = "Aug"
+    ,"09" = "Sep"
+    ,"10" = "Oct"
+    ,"11" = "Nov"
+    ,"12" = "Dec"
+  )
+  df_chart$Month <- lapply(df_chart$Month.x,function(x){as.character(dic_month[x])})
+
+  return(df_chart)
+}
+
+# # function testing:
+# df_test <- fn.data.claims.Devon(
+#   df_T  = df_Tolerance,
+#   df_C  = df_Claims,
+#   df_F  = df_Forecast,
+#   segment = "Total",
+#   plan.version = "Plan",
+#   forecast.date = "Nov"
+# )
+
+fn.chart.claims.Devon.AC <- function(df_chart){
+  #@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@
+  # This function creats the plot for claims average cost chart 2
+  # inputs  - df_chart (generated by fn.data.claims.Devon)
+  # returns - p, a ggplot for chart 2
+  #@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#
+  
+  # generate plot
+  p<- ggplot(data = df_chart, aes(x = Period))+
+    # up and down bars
+     geom_bar(aes(y = csum_diff_AC_pluses) , stat = "identity", fill = pallette$redpale)+
+     geom_bar(aes(y = csum_diff_AC_minuses), stat = "identity", fill = pallette$greenpale)+
+    # tolerance lines
+     geom_line(aes(y = AC_Tol)     , group = 3, color = pallette$red, size = 1, linetype = 5)+
+     geom_line(aes(y = AC_Tol_down), group = 4, color = pallette$red, size = 1, linetype = 5)+
+    # label "Tolerance"
+    geom_text(aes(x = min(df_chart$Period), y = df_chart$AC_Tol[1]), label="Tolerance", nudge_x = 1, nudge_y = df_chart$AC_Tol[1]/10)+
+    # formatting axes
+    scale_y_continuous(name = "Forecast - Plan (negative means forecast is lower than plan)")+
+    scale_x_discrete(name = "Date", labels = df_chart$Month)+ 
+    # adding year labels
+    lapply(
+      seq(1,length(unique(df_chart$Year.x)))
+      ,function(year)
+      {geom_text(
+        aes(
+          x = df_chart$Period[match(unique(df_chart$Year.x)[year], df_chart$Year.x)],
+          y = min(df_chart$AC_Tol_down, df_chart$csum_diff_AC_minuses) - df_chart$AC_Tol[1]/10
+        )
+        ,label = unique(df_chart$Year.x)[year]
+        ,na.rm=TRUE
+      )
+      }
+    )+
+    # set theme
+    theme_bw()
+  
+  print(p)
+}
+
+# function testing
+# fn.chart.claims.Devon.AC(df_test)
+
+fn.chart.claims.Devon.Freq <- function(df_chart){
+  #@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@
+  # This function creats the plot for claims frequency chart 2
+  # inputs  - df_chart (generated by fn.data.claims.Devon)
+  # returns - p, a ggplot for chart 2
+  #@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#
+  
+  # generate plot
+  p<- ggplot(data = df_chart, aes(x = Period))+
+    # up and down bars
+    geom_bar(aes(y = csum_diff_Freq_pluses) , stat = "identity", fill = pallette$redpale)+
+    geom_bar(aes(y = csum_diff_Freq_minuses), stat = "identity", fill = pallette$greenpale)+
+    # tolerance lines
+    geom_line(aes(y = Freq_Tol)     , group = 3, color = pallette$red, size = 1, linetype = 5)+
+    geom_line(aes(y = Freq_Tol_down), group = 4, color = pallette$red, size = 1, linetype = 5)+
+    # label "Tolerance"
+    geom_text(aes(x = min(df_chart$Period), y = df_chart$Freq_Tol[1]), label="Tolerance", nudge_x = 1, nudge_y = df_chart$Freq_Tol[1]/10)+
+    # formatting axes
+    scale_y_continuous(name = "Forecast - Plan (negative means forecast is lower than plan)")+
+    scale_x_discrete(name = "Date", labels = df_chart$Month)+ 
+    # adding year labels
+    lapply(
+      seq(1,length(unique(df_chart$Year.x)))
+      ,function(year)
+      {geom_text(
+        aes(
+          x = df_chart$Period[match(unique(df_chart$Year.x)[year], df_chart$Year.x)],
+          y = min(df_chart$Freq_Tol_down, df_chart$csum_diff_Freq_minuses) - df_chart$Freq_Tol[1]/10
+        )
+        ,label = unique(df_chart$Year.x)[year]
+        ,na.rm=TRUE
+      )
+      }
+    )+
+    # set theme
+    theme_bw()
+  
+  print(p)
+}
+
+# function testing
+# fn.chart.claims.Devon.Freq(df_test)
